@@ -1,0 +1,24 @@
+{
+"01-28": {
+"events": [
+{
+"title": "Dataskyddsdagen",
+"desc": "Dagen då vi låtsas läsa igenom alla användarvillkor innan vi klickar 'Godkänn'."
+},
+{
+"title": "Lego-dagen",
+"desc": "Då det är fullt lagligt att bygga rymdskepp under lunchrasten."
+}
+],
+"color": "#74b9ff"
+},
+"01-29": {
+"events": [
+{
+"title": "Veganpizza-dagen",
+"desc": "En dag för att testa nya spännande toppings!"
+}
+],
+"color": "#55efc4"
+}
+}

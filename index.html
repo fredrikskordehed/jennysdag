@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jennys - Vad är det för dag idag?</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Indie+Flower&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --season-color: #ff7675; 
+            --bg-color: #1a1a2e;
+            --card-bg: #252545;
+            --text-main: #e0e0e0;
+            --text-muted: #b2bec3;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: var(--bg-color);
+            margin: 0;
+            display: flex;
+            flex-direction: column; 
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            color: var(--text-main);
+            padding: 20px;
+        }
+
+        .main-title {
+            font-size: 2.8rem;
+            font-weight: 700;
+            margin-bottom: 30px;
+            text-align: center;
+            color: #ffffff;
+            text-shadow: 0 4px 10px rgba(0,0,0,0.3);
+            max-width: 600px;
+            line-height: 1.1;
+        }
+
+        .card {
+            background: var(--card-bg);
+            padding: 40px;
+            border-radius: 30px;
+            box-shadow: 0 20px 50px rgba(0,0,0,0.4);
+            width: 100%;
+            max-width: 500px;
+            text-align: center;
+            position: relative;
+            border-bottom: 8px solid var(--season-color);
+            transition: all 0.5s ease;
+        }
+
+        .date-badge {
+            display: inline-block;
+            border: 1.5px solid var(--season-color);
+            color: var(--season-color);
+            padding: 8px 20px;
+            border-radius: 20px;
+            font-weight: 600;
+            margin-bottom: 25px;
+            font-size: 0.9rem;
+            text-transform: capitalize;
+            letter-spacing: 0.5px;
+        }
+
+        h2 {
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 1.8rem;
+            margin: 0 0 25px 0;
+            color: #ffffff;
+            line-height: 1.4;
+        }
+
+        .story-container {
+            min-height: 100px;
+            margin-bottom: 20px;
+        }
+
+        .description {
+            font-size: 1.15rem;
+            line-height: 1.7;
+            color: var(--text-main);
+            font-style: italic;
+            opacity: 0.9;
+            text-align: left;
+            white-space: pre-wrap;
+        }
+
+        .reveal-btn {
+            background: var(--season-color);
+            color: #1a1a2e;
+            border: none;
+            padding: 15px 30px;
+            border-radius: 50px;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 700;
+            font-size: 1rem;
+            cursor: pointer;
+            box-shadow: 0 4px 15px rgba(255, 118, 117, 0.3);
+            transition: transform 0.2s, box-shadow 0.2s;
+            margin-top: 10px;
+        }
+
+        .reveal-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(255, 118, 117, 0.4);
+        }
+
+        .reveal-btn.hidden { display: none; }
+
+        .jenny-note {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px dashed rgba(255, 255, 255, 0.1);
+            font-family: 'Indie Flower', cursive;
+            font-size: 1.5rem;
+            color: #fab1a0;
+        }
+
+        footer {
+            margin-top: 25px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            opacity: 0.5;
+        }
+
+        .cursor {
+            display: inline-block;
+            width: 3px;
+            background-color: var(--season-color);
+            margin-left: 2px;
+            animation: blink 0.7s infinite;
+        }
+
+        @keyframes blink {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0; }
+        }
+
+        @media (max-width: 480px) {
+            .main-title { font-size: 2rem; }
+            h2 { font-size: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="main-title">Jennys - Vad är det för dag idag?</h1>
+
+    <div class="card">
+        <div class="date-badge" id="full-date">Laddar...</div>
+        
+        <div id="interactive-area">
+            <h2 id="question-text">Hämtar dagens firande...</h2>
+            
+            <button id="reveal-btn" class="reveal-btn hidden" onclick="startStorytelling()">Nej, berätta!</button>
+            
+            <div class="story-container">
+                <p class="description" id="story-text"></p><span id="cursor" class="cursor hidden"></span>
+            </div>
+        </div>
+
+        <div class="jenny-note">
+            "Glöm inte att fira ordentligt!"
+        </div>
+
+        <footer>Ersätter inte en riktig Jenny, men gör sitt bästa.</footer>
+    </div>
+
+    <script>
+        let currentStory = "";
+        let isTyping = false;
+
+        async function init() {
+            const now = new Date();
+            const day = now.getDate();
+            const month = now.getMonth() + 1;
+            const monthStr = month.toString().padStart(2, '0');
+            const dayStr = day.toString().padStart(2, '0');
+            
+            const monthNames = ["januari", "februari", "mars", "april", "maj", "juni", "juli", "augusti", "september", "oktober", "november", "december"];
+            const dayNames = ["Söndag", "Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag"];
+            
+            document.getElementById('full-date').innerText = `${dayNames[now.getDay()]} ${day} ${monthNames[now.getMonth()]}`;
+
+            try {
+                // Hämtar JSON-fil för aktuell månad, t.ex. "data/01.json"
+                const response = await fetch(`data/${monthStr}.json`);
+                if (!response.ok) throw new Error('Kunde inte ladda månadsdata');
+                
+                const monthData = await response.json();
+                const todayData = monthData[`${monthStr}-${dayStr}`];
+
+                if (todayData && todayData.events.length > 0) {
+                    const count = todayData.events.length;
+                    document.getElementById('question-text').innerText = count === 1 
+                        ? `Idag har vi en speciell sak på gång. Någon som vet vad?`
+                        : `Idag har vi faktiskt ${count} spännande saker att fira! Någon som vet vilka?`;
+                    
+                    if (todayData.color) document.documentElement.style.setProperty('--season-color', todayData.color);
+                    currentStory = formatStory(todayData.events);
+                    document.getElementById('reveal-btn').classList.remove('hidden');
+                } else {
+                    handleEmptyDay();
+                }
+            } catch (error) {
+                console.error(error);
+                handleEmptyDay();
+            }
+        }
+
+        function handleEmptyDay() {
+            document.getElementById('question-text').innerText = "Idag verkar vara en helt vanlig (men magisk) vardag!";
+            currentStory = "Idag finns ingen officiell temadag i min lista, vilket betyder att vi får uppfinna en själva. 'Ta-en-extra-kaka-dagen' kanske?";
+            document.getElementById('reveal-btn').classList.remove('hidden');
+        }
+
+        function formatStory(events) {
+            if (events.length === 1) {
+                return `Jo, idag är det nämligen ${events[0].title}! \n\n${events[0].desc}`;
+            }
+            let text = `Jo, lyssna nu! Idag är det först och främst ${events[0].title}. ${events[0].desc}\n\n`;
+            for (let i = 1; i < events.length; i++) {
+                const prefix = i === events.length - 1 ? "Men OCKSÅ! " : "Och som om det inte vore nog: ";
+                text += `${prefix}Det är även ${events[i].title}! ${events[i].desc}\n\n`;
+            }
+            text += "Visst är det härligt?";
+            return text;
+        }
+
+        function startStorytelling() {
+            if (isTyping) return;
+            document.getElementById('reveal-btn').classList.add('hidden');
+            document.getElementById('cursor').classList.remove('hidden');
+            let i = 0;
+            isTyping = true;
+            const target = document.getElementById('story-text');
+            target.innerText = "";
+
+            function typeWriter() {
+                if (i < currentStory.length) {
+                    target.innerText += currentStory.charAt(i);
+                    i++;
+                    const speed = [".", "!", "?"].includes(currentStory.charAt(i-1)) ? 500 : 30;
+                    setTimeout(typeWriter, speed);
+                } else {
+                    isTyping = false;
+                    document.getElementById('cursor').classList.add('hidden');
+                }
+            }
+            typeWriter();
+        }
+
+        window.onload = init;
+    </script>
+</body>
+</html>
