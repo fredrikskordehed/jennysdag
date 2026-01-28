@@ -1,0 +1,301 @@
+{
+"05-01": {
+"events": [
+{
+"title": "Första maj",
+"desc": "Arbetarrörelsens dag! En dag för ledighet, demonstrationer och att välkomna våren på riktigt."
+}
+],
+"color": "#ff7675"
+},
+"05-02": {
+"events": [
+{
+"title": "Harry Potter-dagen",
+"desc": "Dagen då vi firar slaget om Hogwarts. Fram med trollspöet och sprid lite magi på kontoret!"
+}
+],
+"color": "#6c5ce7"
+},
+"05-03": {
+"events": [
+{
+"title": "Internationella pressfrihetsdagen",
+"desc": "Vi hyllar det fria ordet och journalisters viktiga arbete för demokratin världen över."
+},
+{
+"title": "Asociala dagen",
+"desc": "Dagen då det är helt okej att dra upp luvan, sätta på sig hörlurarna och bara fokusera på sitt eget. Egentid när den är som bäst!"
+}
+],
+"color": "#74b9ff"
+},
+"05-04": {
+"events": [
+{
+"title": "Star Wars-dagen",
+"desc": "May the 4th be with you! Idag pratar vi som Yoda och drömmer oss bort till en galax långt, långt borta."
+}
+],
+"color": "#2d3436"
+},
+"05-05": {
+"events": [
+{
+"title": "Internationella barnmorskedagen",
+"desc": "Vi hyllar dem som välkomnar oss till världen. En dag för respekt och tacksamhet!"
+},
+{
+"title": "Handhygienens dag",
+"desc": "En glittrande påminnelse om att tvätta händerna ordentligt. Tvål och vatten är våra bästa vänner!"
+}
+],
+"color": "#81ecec"
+},
+"05-06": {
+"events": [
+{
+"title": "Hembakningsdagen",
+"desc": "Doften av nybakat! Ta med något gott till fikat idag och gör dina kollegor extra glada."
+}
+],
+"color": "#fdcb6e"
+},
+"05-07": {
+"events": [
+{
+"title": "Världsskrattdagen",
+"desc": "Ett gott skratt förlänger livet. Idag är det lag på att dra minst ett riktigt dåligt (eller bra) skämt!"
+}
+],
+"color": "#ffeaa7"
+},
+"05-08": {
+"events": [
+{
+"title": "Innebandyns dag",
+"desc": "En hyllning till sporten som får pulsen att stiga. Fram med klubban och bollen!"
+},
+{
+"title": "Hågkomstens dag",
+"desc": "Vi minns slutet på andra världskriget i Europa och firar freden."
+}
+],
+"color": "#0984e3"
+},
+"05-09": {
+"events": [
+{
+"title": "Europadagen",
+"desc": "Vi firar fred och enhet i Europa. En dag för gemenskap över gränserna!"
+}
+],
+"color": "#0984e3"
+},
+"05-10": {
+"events": [
+{
+"title": "Kiviks marknad-dagen",
+"desc": "Vi tänker på karameller, marknadsstånd och skånsk tradition!"
+}
+],
+"color": "#fab1a0"
+},
+"05-11": {
+"events": [
+{
+"title": "Chokladbollens dag",
+"desc": "Den ultimata klassikern! Rullad i pärlsocker eller kokos? Idag spelar det ingen roll, bara de är många!"
+}
+],
+"color": "#636e72"
+},
+"05-12": {
+"events": [
+{
+"title": "Internationella sjuksköterskedagen",
+"desc": "Florence Nightingales födelsedag. Vi hyllar hjältarna i vården som gör skillnad varje sekund."
+}
+],
+"color": "#74b9ff"
+},
+"05-13": {
+"events": [
+{
+"title": "Barnens dag",
+"desc": "Idag sätter vi barnens behov och glädje i centrum. Lek och bus uppmuntras!"
+}
+],
+"color": "#fd79a8"
+},
+"05-14": {
+"events": [
+{
+"title": "Teckenspråkets dag",
+"desc": "Vi uppmärksammar det svenska teckenspråket och rätten till kommunikation på egna villkor."
+}
+],
+"color": "#a29bfe"
+},
+"05-15": {
+"events": [
+{
+"title": "Internationella familjedagen",
+"desc": "Familjen är viktig, oavsett hur den ser ut. Skänk en extra tanke till dina nära och kära idag."
+}
+],
+"color": "#ff7675"
+},
+"05-16": {
+"events": [
+{
+"title": "Internationella dagen för ljus",
+"desc": "Från laser till solljus – vi firar ljusets roll i vetenskap, kultur och natur."
+}
+],
+"color": "#ffeaa7"
+},
+"05-17": {
+"events": [
+{
+"title": "Internationella dagen mot homofobi, transfobi och bifobi",
+"desc": "En viktig dag för mänskliga rättigheter och allas rätt att älska vem de vill."
+},
+{
+"title": "Norges nationaldag",
+"desc": "Gratulerer med dagen, Norge! Vi firar våra grannar med 17:e maj-tåg och glada hurrarop."
+}
+],
+"color": "#d63031"
+},
+"05-18": {
+"events": [
+{
+"title": "Internationella museidagen",
+"desc": "Dags för en kulturell utflykt! Museer är fönster mot både dåtiden och framtiden."
+}
+],
+"color": "#b2bec3"
+},
+"05-19": {
+"events": [
+{
+"title": "Halsduksdagen",
+"desc": "Trots att det är maj kan vinden bita. Hylla din favorithalsduk en sista gång innan sommaren!"
+}
+],
+"color": "#81ecec"
+},
+"05-20": {
+"events": [
+{
+"title": "Världsbidagen",
+"desc": "Surr, surr! Vi firar pollineringens hjältar som ser till att vi har mat på bordet."
+}
+],
+"color": "#fdcb6e"
+},
+"05-21": {
+"events": [
+{
+"title": "Världsdagen för kulturell mångfald för dialog och utveckling",
+"desc": "Våra olikheter är vår styrka. Idag lyssnar vi lite extra på varandras historier."
+}
+],
+"color": "#55efc4"
+},
+"05-22": {
+"events": [
+{
+"title": "Internationella dagen för biologisk mångfald",
+"desc": "Naturen är fantastisk! Idag påminner vi oss om vikten av att bevara alla arter, stora som små."
+}
+],
+"color": "#00b894"
+},
+"05-23": {
+"events": [
+{
+"title": "Sköldpaddans dag",
+"desc": "Skynda långsamt! Idag hyllar vi de lugna sköldpaddorna och deras långa liv."
+}
+],
+"color": "#00b894"
+},
+"05-24": {
+"events": [
+{
+"title": "Nationalparkernas dag",
+"desc": "Ut i det vilda! Vi firar den orörda naturen och våra vackra nationalparker."
+}
+],
+"color": "#55efc4"
+},
+"05-25": {
+"events": [
+{
+"title": "Handduksdagen (Towel Day)",
+"desc": "En hyllning till Douglas Adams. Glöm inte din handduk idag – det är det mest användbara en intergalaktisk luffare kan ha!"
+},
+{
+"title": "Internationella dagen för försvunna barn",
+"desc": "En dag för hopp och för att aldrig sluta leta efter dem som saknas."
+}
+],
+"color": "#74b9ff"
+},
+"05-26": {
+"events": [
+{
+"title": "Mors dag",
+"desc": "Vi firar alla fantastiska mammor och modersgestalter. Ge en blomma eller ett telefonsamtal!"
+}
+],
+"color": "#fd79a8"
+},
+"05-27": {
+"events": [
+{
+"title": "Ostostens dag",
+"desc": "Som om ost inte vore nog – idag firar vi ost med extra mycket ost. Smält, lagrad eller krämig!"
+}
+],
+"color": "#ffeaa7"
+},
+"05-28": {
+"events": [
+{
+"title": "Internationella hamburgardagen",
+"desc": "Grillen är igång! Oavsett om det är kött, halloumi eller bönburgare så är det idag vi njuter av en riktig klassiker."
+}
+],
+"color": "#e17055"
+},
+"05-29": {
+"events": [
+{
+"title": "Veterandagen",
+"desc": "Vi hedrar alla som tjänstgjort i fredsbevarande insatser världen över. Tack för er insats!"
+}
+],
+"color": "#b2bec3"
+},
+"05-30": {
+"events": [
+{
+"title": "Fönsterputsadagen",
+"desc": "Se världen klart! Dags att ta bort vinterns smuts och släppa in sommarsolen genom rutorna."
+}
+],
+"color": "#81ecec"
+},
+"05-31": {
+"events": [
+{
+"title": "Internationella rökfria dagen",
+"desc": "Andas in frisk luft! En dag för hälsa och för att stötta dem som vill sluta röka."
+}
+],
+"color": "#55efc4"
+}
+}

@@ -1,0 +1,333 @@
+{
+"10-01": {
+"events": [
+{
+"title": "Vegetariska världsdagen",
+"desc": "En dag för att fira gröna smaker och inspireras till en mer växtbaserad livsstil för planetens skull."
+},
+{
+"title": "Kinas nationaldag",
+"desc": "Vi uppmärksammar Folkrepubliken Kinas grundande."
+}
+],
+"color": "#55efc4"
+},
+"10-02": {
+"events": [
+{
+"title": "Internationella icke-våldsdagen",
+"desc": "Mahatma Gandhis födelsedag. En dag för att främja fred och förståelse genom icke-våldslig kommunikation."
+},
+{
+"title": "Lantbruksdjurens dag",
+"desc": "Vi skänker en tanke till alla djur inom lantbruket och vikten av god djuromsorg."
+}
+],
+"color": "#fdcb6e"
+},
+"10-03": {
+"events": [
+{
+"title": "Tyska enhetsdagen",
+"desc": "Vi gratulerar Tyskland på deras nationaldag som markerar landets återförening."
+}
+],
+"color": "#2d3436"
+},
+"10-04": {
+"events": [
+{
+"title": "Kanelbullens dag",
+"desc": "Sveriges kanske mest älskade temadag! Doften av nybakat och kardemumma sprider sig i hela landet."
+},
+{
+"title": "Djurens dag",
+"desc": "Vi hyllar alla djur i världen och påminner oss om vårt ansvar för deras välbefinnande."
+}
+],
+"color": "#e17055"
+},
+"10-05": {
+"events": [
+{
+"title": "Världslärardagen",
+"desc": "En hyllning till alla pedagoger som formar framtiden genom att inspirera och utbilda nästa generation."
+}
+],
+"color": "#74b9ff"
+},
+"10-06": {
+"events": [
+{
+"title": "Gräddtårtans dag",
+"desc": "Det behöver inte vara födelsedag för att äta tårta. Idag unnar vi oss en klassisk gräddig dröm!"
+}
+],
+"color": "#fab1a0"
+},
+"10-07": {
+"events": [
+{
+"title": "Internationella dagen för anständiga arbetsvillkor",
+"desc": "Alla har rätt till en trygg arbetsmiljö och en lön det går att leva på."
+}
+],
+"color": "#b2bec3"
+},
+"10-08": {
+"events": [
+{
+"title": "Världshypnotisörsdagen",
+"desc": "Idag fokuserar vi på fokus! En dag för att utforska sinnets dolda möjligheter."
+}
+],
+"color": "#a29bfe"
+},
+"10-09": {
+"events": [
+{
+"title": "Världspostdagen",
+"desc": "Vi tackar postarbetare världen över som ser till att brev och paket når fram, oavsett avstånd."
+}
+],
+"color": "#ffeaa7"
+},
+"10-10": {
+"events": [
+{
+"title": "Världsdagen för psykisk hälsa",
+"desc": "Våga prata om det som känns! En viktig dag för att bryta stigmat kring psykisk ohälsa."
+},
+{
+"title": "Grötens dag",
+"desc": "En stadig start på dagen. Idag firar vi den enkla och nyttiga gröten i alla dess former."
+}
+],
+"color": "#81ecec"
+},
+"10-11": {
+"events": [
+{
+"title": "Internationella flickdagen",
+"desc": "Vi belyser flickors rättigheter och de utmaningar de möter världen över."
+},
+{
+"title": "Äppelmustens dag",
+"desc": "Njut av säsongens skörd i flytande form. Friskt, sött och helt naturligt!"
+}
+],
+"color": "#fd79a8"
+},
+"10-12": {
+"events": [
+{
+"title": "Civilförsvarets dag",
+"desc": "Vi uppmärksammar vikten av beredskap och medmänsklighet vid kriser."
+}
+],
+"color": "#b2bec3"
+},
+"10-13": {
+"events": [
+{
+"title": "Internationella dagen för begränsning av naturkatastrofer",
+"desc": "Kunskap och förebyggande arbete räddar liv när naturen krafter släpps lösa."
+}
+],
+"color": "#74b9ff"
+},
+"10-14": {
+"events": [
+{
+"title": "Världsstandarddagen",
+"desc": "Tänk vad skönt att saker passar ihop! Idag hyllar vi de osynliga reglerna som gör vardagen enklare."
+},
+{
+"title": "Räkmackans dag",
+"desc": "Glid in på en macka idag! En klassisk lyx som alltid går hem."
+}
+],
+"color": "#fab1a0"
+},
+"10-15": {
+"events": [
+{
+"title": "Vita käppens dag",
+"desc": "En dag för att öka medvetenheten om blinda och synskadades villkor i samhället."
+},
+{
+"title": "Glesbygdens dag",
+"desc": "Vi hyllar livet utanför storstan och vikten av en levande landsbygd."
+}
+],
+"color": "#00b894"
+},
+"10-16": {
+"events": [
+{
+"title": "Världshungerdagen",
+"desc": "En påminnelse om att mat för dagen inte är en självklarhet för alla. Vad kan vi göra?"
+},
+{
+"title": "Världsbröddagen",
+"desc": "Det mest grundläggande vi har. Idag njuter vi av hantverket bakom ett riktigt gott bröd."
+}
+],
+"color": "#fdcb6e"
+},
+"10-17": {
+"events": [
+{
+"title": "Internationella dagen för utrotande av fattigdom",
+"desc": "Kampen mot fattigdom fortsätter. Idag lyfter vi frågor om rättvisa och global fördelning."
+}
+],
+"color": "#d63031"
+},
+"10-18": {
+"events": [
+{
+"title": "Internationella klimakteriedagen",
+"desc": "Vi sprider kunskap och bryter tystnaden kring ett naturligt men ofta ignorerat skede i livet."
+}
+],
+"color": "#a29bfe"
+},
+"10-19": {
+"events": [
+{
+"title": "Huvudvärkens dag",
+"desc": "Vi skänker en tanke till alla som kämpar med migrän och värk, och vikten av återhämtning."
+}
+],
+"color": "#b2bec3"
+},
+"10-20": {
+"events": [
+{
+"title": "Världsstatistikdagen",
+"desc": "Data hjälper oss att förstå världen. Idag hyllar vi siffrorna som ger oss fakta!"
+}
+],
+"color": "#2d3436"
+},
+"10-21": {
+"events": [
+{
+"title": "Världsjoddagen",
+"desc": "En påminnelse om hur viktigt detta lilla grundämne är för vår hälsa och sköldkörtel."
+}
+],
+"color": "#81ecec"
+},
+"10-22": {
+"events": [
+{
+"title": "Internationella stamningsdagen",
+"desc": "Alla röster förtjänar att bli hörda. Vi sprider kunskap och förståelse för talstörningar."
+}
+],
+"color": "#74b9ff"
+},
+"10-23": {
+"events": [
+{
+"title": "Moldagen (Mole Day)",
+"desc": "För alla kemifantaster! Vi firar Avogadros tal mellan kl 06:02 och 18:02."
+}
+],
+"color": "#6c5ce7"
+},
+"10-24": {
+"events": [
+{
+"title": "FN-dagen",
+"desc": "Vi firar FN-stadgans ikraftträdande och arbetet för fred, utveckling och mänskliga rättigheter."
+},
+{
+"title": "Världsdagen för information om utvecklingsfrågor",
+"desc": "Hur skapar vi en bättre värld tillsammans? Idag söker vi svar."
+}
+],
+"color": "#0984e3"
+},
+"10-25": {
+"events": [
+{
+"title": "Världspastadagen",
+"desc": "Penne, fusilli eller spagetti? Idag serverar vi hela världens favoritmat på tallriken."
+}
+],
+"color": "#fdcb6e"
+},
+"10-26": {
+"events": [
+{
+"title": "Potatisens dag",
+"desc": "Vår mest mångsidiga knöl! Vi hyllar potatisen i alla dess former: mos, stekt eller kokt."
+}
+],
+"color": "#ffeaa7"
+},
+"10-27": {
+"events": [
+{
+"title": "Världsdagen för audiovisuellt kulturarv",
+"desc": "Film, ljud och bild är fönster mot vår historia. Vi uppmärksammar vikten av att bevara dem."
+},
+{
+"title": "Internationella nalledagen",
+"desc": "Krama din favoritnalle lite extra idag! En dag för trygghet och barndomsminnen."
+}
+],
+"color": "#e17055"
+},
+"10-28": {
+"events": [
+{
+"title": "Internationella animationsdagen",
+"desc": "Från tecknad film till avancerad 3D – vi firar konsten att ge liv åt det livlösa."
+},
+{
+"title": "Bilens dag",
+"desc": "Vi uppmärksammar bilens roll för rörlighet och frihet i vårt avlånga land."
+}
+],
+"color": "#b2bec3"
+},
+"10-29": {
+"events": [
+{
+"title": "Världs-strokekagen",
+"desc": "Kunskap om symtomen räddar liv. Kom ihåg AKUT-testet!"
+},
+{
+"title": "Internationella champagnedagen",
+"desc": "Idag skålar vi i bubbel! Det finns alltid något att fira om man letar noga."
+}
+],
+"color": "#ffeaa7"
+},
+"10-30": {
+"events": [
+{
+"title": "Lutfiskens dag",
+"desc": "En riktig vattendelare på matbordet. Idag tjuvstartar vi på julens smaker!"
+}
+],
+"color": "#b2bec3"
+},
+"10-31": {
+"events": [
+{
+"title": "Halloween",
+"desc": "Bus eller godis! Fram med pumporna och de läskiga dräkterna för en ryslig kväll."
+},
+{
+"title": "Världsstadsdagen",
+"desc": "Vi fokuserar på hållbara städer och hur vi bäst lever tillsammans på liten yta."
+}
+],
+"color": "#2d3436"
+}
+}

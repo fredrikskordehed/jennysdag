@@ -1,0 +1,300 @@
+{
+"11-01": {
+"events": [
+{
+"title": "Allhelgonadagen",
+"desc": "En dag för eftertanke och minne. Vi tänder ljus på gravarna för att hedra dem som inte längre finns med oss."
+},
+{
+"title": "Internationella vegandagen",
+"desc": "Vi firar den veganska livsstilen och dess positiva inverkan på djur, hälsa och miljö."
+}
+],
+"color": "#b2bec3"
+},
+"11-02": {
+"events": [
+{
+"title": "Alla själars dag",
+"desc": "Vi fortsätter att minnas och be för de avlidna i en lugn och fridfull anda."
+}
+],
+"color": "#636e72"
+},
+"11-03": {
+"events": [
+{
+"title": "Hubertusdagen",
+"desc": "Jaktens skyddshelgon firas. En dag som traditionellt markerar början på många höstjakter."
+}
+],
+"color": "#00b894"
+},
+"11-04": {
+"events": [
+{
+"title": "Nationella godisdagen (USA)",
+"desc": "Även om vi har lördagsgodis i Sverige, tar vi tacksamt emot en extra anledning att unna oss något sött!"
+}
+],
+"color": "#fd79a8"
+},
+"11-05": {
+"events": [
+{
+"title": "Guy Fawkes Night",
+"desc": "'Remember, remember the fifth of November'. Vi minns krutkonspirationen med brasor och fyrverkerier."
+}
+],
+"color": "#e17055"
+},
+"11-06": {
+"events": [
+{
+"title": "Gustav Adolfs-dagen",
+"desc": "Vi äter den klassiska Gustav Adolfs-bakelsen med chokladprofilen av kungen på toppen."
+}
+],
+"color": "#fdcb6e"
+},
+"11-07": {
+"events": [
+{
+"title": "Kladdkakans dag",
+"desc": "Kanske årets godaste dag? Seg, chokladig och alldeles underbar med en klick grädde."
+}
+],
+"color": "#636e72"
+},
+"11-08": {
+"events": [
+{
+"title": "Världsdagen för stadsplanering",
+"desc": "Vi funderar på hur vi skapar bra och hållbara miljöer där människor kan trivas och växa."
+}
+],
+"color": "#74b9ff"
+},
+"11-09": {
+"events": [
+{
+"title": "Arkivens dag",
+"desc": "Gå på upptäcktsfärd i historien! Arkiven öppnar dörrarna och visar spännande dokument från förr."
+}
+],
+"color": "#b2bec3"
+},
+"11-10": {
+"events": [
+{
+"title": "Mårtensafton",
+"desc": "Vi firar Mårten Gås med svartsoppa, gås och skånsk äppelkaka. En riktig festmåltid!"
+}
+],
+"color": "#d63031"
+},
+"11-11": {
+"events": [
+{
+"title": "Chokladens dag",
+"desc": "Ja, vi älskar choklad! Idag firar vi bönan som ger oss så mycket njutning."
+},
+{
+"title": "Singlarnas dag",
+"desc": "Världens största shoppingdag! En dag att fira sig själv och sin självständighet."
+}
+],
+"color": "#fab1a0"
+},
+"11-12": {
+"events": [
+{
+"title": "Världspneumonidagen",
+"desc": "Vi ökar medvetenheten om lunginflammation och vikten av förebyggande vård globalt."
+}
+],
+"color": "#81ecec"
+},
+"11-13": {
+"events": [
+{
+"title": "Smörgåstårtans dag",
+"desc": "En svensk klassiker! Lager på lager av gott – idag festar vi på denna retrofavorit."
+}
+],
+"color": "#ffeaa7"
+},
+"11-14": {
+"events": [
+{
+"title": "Världsdiabetesdagen",
+"desc": "Vi bär blått och sprider kunskap om diabetes och vikten av forskning och stöd."
+},
+{
+"title": "Ostkaka-dagen",
+"desc": "Den småländska delikatessen firas! Serveras bäst ljummen med sylt och grädde."
+}
+],
+"color": "#74b9ff"
+},
+"11-15": {
+"events": [
+{
+"title": "Musikterapins dag",
+"desc": "Vi uppmärksammar musikens helande kraft och hur den kan användas inom vården."
+}
+],
+"color": "#a29bfe"
+},
+"11-16": {
+"events": [
+{
+"title": "Internationella dagen för tolerans",
+"desc": "Vi påminner oss om att respekt och förståelse för olikheter är grunden för fred."
+}
+],
+"color": "#55efc4"
+},
+"11-17": {
+"events": [
+{
+"title": "De prematurfödda barnens dag",
+"desc": "Vi belyser utmaningarna för barn som föds för tidigt och ger stöd till deras familjer."
+},
+{
+"title": "Napoleonbakelsens dag",
+"desc": "Frasig smördeg, vaniljkräm och hallonsylt. En klassiker på konditoriet!"
+}
+],
+"color": "#fab1a0"
+},
+"11-18": {
+"events": [
+{
+"title": "Europeiska antibiotikadagen",
+"desc": "Vi fokuserar på ansvarsfull användning av antibiotika för att motverka resistens."
+}
+],
+"color": "#81ecec"
+},
+"11-19": {
+"events": [
+{
+"title": "Internationella mansdagen",
+"desc": "Vi fokuserar på mäns hälsa, positiva förebilder och jämställdhet."
+},
+{
+"title": "Världstoalettdagen",
+"desc": "En viktig sanitetfråga! Vi belyser att miljarder människor fortfarande saknar tillgång till säkra toaletter."
+}
+],
+"color": "#0984e3"
+},
+"11-20": {
+"events": [
+{
+"title": "Barnrättsdagen",
+"desc": "Årsdagen för Barnkonventionen. Vi firar och försvarar alla barns rättigheter."
+}
+],
+"color": "#74b9ff"
+},
+"11-21": {
+"events": [
+{
+"title": "Världsdagen för TV",
+"desc": "Vi uppmärksammar tv-mediets roll för information, utbildning och underhållning."
+},
+{
+"title": "Musikens dag (Sankta Cecilia)",
+"desc": "Vi hyllar musikens skyddshelgon och alla som skapar vackra toner."
+}
+],
+"color": "#a29bfe"
+},
+"11-22": {
+"events": [
+{
+"title": "Wienerbrödets dag",
+"desc": "Danskt eller svenskt? Oavsett ursprung njuter vi av de smöriga lagren idag."
+}
+],
+"color": "#fdcb6e"
+},
+"11-23": {
+"events": [
+{
+"title": "Fibromyalgidagen",
+"desc": "Vi sprider kunskap om kronisk smärta och visar solidaritet med de drabbade."
+}
+],
+"color": "#a29bfe"
+},
+"11-24": {
+"events": [
+{
+"title": "Fars dag (rörlig, infaller ofta här)",
+"desc": "Vi firar alla pappor och fadersfigurer med frukost på sängen och en teckning eller en kram."
+}
+],
+"color": "#74b9ff"
+},
+"11-25": {
+"events": [
+{
+"title": "Internationella dagen för avskaffande av våld mot kvinnor",
+"desc": "Vi tänder ljus och visar att vi aldrig accepterar våld. Orange Day!"
+}
+],
+"color": "#e17055"
+},
+"11-26": {
+"events": [
+{
+"title": "Tacksägelsedagen (USA - Thanksgiving)",
+"desc": "En dag att stanna upp och reflektera över allt vi har att vara tacksamma för."
+}
+],
+"color": "#fdcb6e"
+},
+"11-27": {
+"events": [
+{
+"title": "Halsdukens dag",
+"desc": "Vira den ett extra varv! Idag hyllar vi det plagg som håller oss varma i novemberrusket."
+}
+],
+"color": "#a29bfe"
+},
+"11-28": {
+"events": [
+{
+"title": "Black Friday (rörlig)",
+"desc": "Dagen då priserna pressas och julhandeln startar på allvar. Handla med eftertanke!"
+}
+],
+"color": "#2d3436"
+},
+"11-29": {
+"events": [
+{
+"title": "Internationella dagen för solidaritet med det palestinska folket",
+"desc": "FN-dag som uppmanar till fred och rättvisa i regionen."
+}
+],
+"color": "#00b894"
+},
+"11-30": {
+"events": [
+{
+"title": "Guldsmedens dag",
+"desc": "Vi hyllar hantverket som förvandlar metall till konst och minnen."
+},
+{
+"title": "Andersdagen",
+"desc": "Enligt traditionen: 'Om Anders braskar, ska julen slaska'. Vi kollar vädret noga idag!"
+}
+],
+"color": "#ffeaa7"
+}
+}

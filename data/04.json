@@ -1,0 +1,312 @@
+{
+"04-01": {
+"events": [
+{
+"title": "Aprilskämtens dag",
+"desc": "Idag får man vara extra vaksam! Tro inte på allt du hör, men bjud gärna på ett skratt om du lyckas lura någon (snällt!)."
+},
+{
+"title": "Skojardagen",
+"desc": "Som om ett namn inte vore nog. Idag hyllar vi humorn som verktyg för att göra vardagen lite lättare!"
+}
+],
+"color": "#ffeaa7"
+},
+"04-02": {
+"events": [
+{
+"title": "Internationella barnboksdagen",
+"desc": "Dagen firas på H.C. Andersens födelsedag. Det är aldrig för sent att läsa en saga och låta fantasin flöda."
+},
+{
+"title": "Världsdagen för autism",
+"desc": "Vi lyser upp i blått för att öka kunskapen och fira att alla hjärnor fungerar olika men lika bra!"
+}
+],
+"color": "#74b9ff"
+},
+"04-03": {
+"events": [
+{
+"title": "Kärlekens dag",
+"desc": "Varför vänta till februari? Idag sprider vi lite extra uppskattning till de vi håller kära."
+}
+],
+"color": "#ff7675"
+},
+"04-04": {
+"events": [
+{
+"title": "Morotsens dag",
+"desc": "Krispig, orange och full av vitaminer. Perfekt som snack vid skrivbordet idag!"
+},
+{
+"title": "Internationella dagen för minor och minröjning",
+"desc": "En dag för eftertanke kring säkerhet och fred i världen."
+}
+],
+"color": "#e17055"
+},
+"04-05": {
+"events": [
+{
+"title": "Internationella samvetsdagen",
+"desc": "En dag för att reflektera över våra val och hur vi kan vara den bästa versionen av oss själva mot andra."
+}
+],
+"color": "#55efc4"
+},
+"04-06": {
+"events": [
+{
+"title": "Bordtennisens dag",
+"desc": "Dags för en rundpingis i fikarummet? Sporten där snabba reflexer är allt!"
+}
+],
+"color": "#81ecec"
+},
+"04-07": {
+"events": [
+{
+"title": "Världshälsodagen",
+"desc": "Vi uppmärksammar vikten av god hälsa för alla människor på hela jorden. Ta hand om dig idag!"
+}
+],
+"color": "#00b894"
+},
+"04-08": {
+"events": [
+{
+"title": "Internationella romadagen",
+"desc": "Vi firar romsk kultur och historia. En dag för inkludering och stolthet!"
+}
+],
+"color": "#0984e3"
+},
+"04-09": {
+"events": [
+{
+"title": "Internationella gin & tonic-dagen",
+"desc": "Kanske inget för morgonkaffet, men en trevlig tanke inför en framtida after work?"
+}
+],
+"color": "#fab1a0"
+},
+"04-10": {
+"events": [
+{
+"title": "Bulldebuten",
+"desc": "Dagen då vi firar att det är okej att ta en bulle till, bara för att det är onsdag (eller vilken dag det nu är)!"
+},
+{
+"title": "Syskonens dag",
+"desc": "Skicka ett meddelande till dina syskon (blodsband eller valda) och berätta att de är bäst."
+}
+],
+"color": "#fdcb6e"
+},
+"04-11": {
+"events": [
+{
+"title": "Internationella Parkinsondagen",
+"desc": "Vi bär den röda tulpanen för att visa stöd och sprida kunskap."
+}
+],
+"color": "#ff7675"
+},
+"04-12": {
+"events": [
+{
+"title": "Lakritsens dag",
+"desc": "Söt, salt eller rökig? Idag firar vi det svarta guldet som delar Sverige i två läger."
+},
+{
+"title": "Linssoppans dag",
+"desc": "Nyttigt, billigt och otroligt gott. En perfekt lunchdag!"
+}
+],
+"color": "#2d3436"
+},
+"04-13": {
+"events": [
+{
+"title": "Scrabble-dagen",
+"desc": "Dags att damma av ordlistan! Idag hyllar vi spelet där sju bokstäver kan bli till magi."
+}
+],
+"color": "#ffeaa7"
+},
+"04-14": {
+"events": [
+{
+"title": "Volvons dag",
+"desc": "En svensk klassiker på vägarna! Idag rullar vi med stil."
+},
+{
+"title": "Kulturarvsdagen",
+"desc": "Vi tänker på allt fint vi har ärvt från generationer före oss."
+}
+],
+"color": "#b2bec3"
+},
+"04-15": {
+"events": [
+{
+"title": "Världskonstdagen",
+"desc": "Leonardo da Vincis födelsedag. Skapa något idag, oavsett om det är en tavla eller en snygg presentation!"
+}
+],
+"color": "#fd79a8"
+},
+"04-16": {
+"events": [
+{
+"title": "Världsröstdagen",
+"desc": "Din röst är unik! Ta hand om stämbanden och våga prata ut idag."
+}
+],
+"color": "#a29bfe"
+},
+"04-17": {
+"events": [
+{
+"title": "Dagen för informationsfrihet",
+"desc": "Vi firar rätten att få veta och vikten av öppenhet i samhället."
+}
+],
+"color": "#74b9ff"
+},
+"04-18": {
+"events": [
+{
+"title": "Amatörradions dag",
+"desc": "Ett klassiskt sätt att kommunicera över hela världen. 'Over and out!'"
+}
+],
+"color": "#fdcb6e"
+},
+"04-19": {
+"events": [
+{
+"title": "Cykelsportens dag",
+"desc": "Hjälmen på! Idag uppmuntrar vi till ett trampande steg mot en bättre hälsa."
+}
+],
+"color": "#55efc4"
+},
+"04-20": {
+"events": [
+{
+"title": "Polkagrisens dag",
+"desc": "Vi tänker på Gränna och de röd-vita stängerna som gör livet lite sötare."
+}
+],
+"color": "#ff7675"
+},
+"04-21": {
+"events": [
+{
+"title": "Världsdagen för kreativitet och innovation",
+"desc": "Idag finns inga dåliga idéer! Hur kan vi göra saker ännu smartare på jobbet?"
+}
+],
+"color": "#6c5ce7"
+},
+"04-22": {
+"events": [
+{
+"title": "Jordens dag (Earth Day)",
+"desc": "Vi påminner oss om att vi bara har en planet. Vad kan du göra för miljön idag?"
+}
+],
+"color": "#00b894"
+},
+"04-23": {
+"events": [
+{
+"title": "Världsbokdagen",
+"desc": "Böcker är dörrar till andra världar. Vilken bok har förändrat ditt liv?"
+},
+{
+"title": "Sankt Georgsdagen (Scouternas dag)",
+"desc": "Vi firar mod och hjälpsamhet. Alltid redo!"
+}
+],
+"color": "#e17055"
+},
+"04-24": {
+"events": [
+{
+"title": "Försöksdjurens dag",
+"desc": "En dag för att belysa vikten av etisk forskning och djurens rättigheter."
+}
+],
+"color": "#b2bec3"
+},
+"04-25": {
+"events": [
+{
+"title": "Världsmalariadagen",
+"desc": "En global insats för att utrota en av världens mest spridda sjukdomar."
+},
+{
+"title": "Månadens mest efterlängtade dag",
+"desc": "För de flesta betyder det lön! Fira med något litet extra idag."
+}
+],
+"color": "#fab1a0"
+},
+"04-26": {
+"events": [
+{
+"title": "Världsdagen för intellektuell äganderätt",
+"desc": "Skydda dina idéer! Idag hyllar vi uppfinnare och kreatörer."
+},
+{
+"title": "Promenadens dag",
+"desc": "Inga ursäkter, ut och rör på påkarna i vårsolen!"
+}
+],
+"color": "#55efc4"
+},
+"04-27": {
+"events": [
+{
+"title": "Världsgrafikdagen",
+"desc": "Vi hyllar alla som gör världen snyggare med färg, form och typsnitt!"
+}
+],
+"color": "#fd79a8"
+},
+"04-28": {
+"events": [
+{
+"title": "Arbetsmiljödagen",
+"desc": "Hur mår vi på jobbet egentligen? Idag sätter vi fokus på säkerhet och välmående vid skrivbordet."
+}
+],
+"color": "#74b9ff"
+},
+"04-29": {
+"events": [
+{
+"title": "Internationella dansdagen",
+"desc": "Skaka loss! Man blir faktiskt 10% gladare av att dansa till sin favoritlåt."
+}
+],
+"color": "#6c5ce7"
+},
+"04-30": {
+"events": [
+{
+"title": "Valborgsmässoafton",
+"desc": "Vi sjunger in våren och tänder stora bål. Hejdå vinter, nu kommer värmen!"
+},
+{
+"title": "Konungens födelsedag",
+"desc": "Vi hissar flaggan för Carl XVI Gustaf! Hurra, hurra, hurra!"
+}
+],
+"color": "#ffeaa7"
+}
+}

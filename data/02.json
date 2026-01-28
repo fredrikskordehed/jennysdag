@@ -1,0 +1,299 @@
+{
+"02-01": {
+"events": [
+{
+"title": "Vegetariska dagen",
+"desc": "Idag ger vi grönsakerna huvudrollen! Kanske läge att testa den där veganska lunchen du funderat på?"
+},
+{
+"title": "Internationella snygg-i-håret-dagen",
+"desc": "En dag att hylla frisyren, oavsett om det är en perfekt styling eller en charmig 'morgonrufs'-look!"
+}
+],
+"color": "#55efc4"
+},
+"02-02": {
+"events": [
+{
+"title": "Kyndelsmässodagen",
+"desc": "Ljusets högtid! Vi firar att dagarna blir märkbart längre och att våren faktiskt är på väg någonstans där borta."
+}
+],
+"color": "#ffeaa7"
+},
+"02-03": {
+"events": [
+{
+"title": "Morotskakans dag",
+"desc": "Grönsaker i en kaka räknas väl som sallad? Idag firar vi en av de saftigaste klassikerna i fikarummet!"
+}
+],
+"color": "#e17055"
+},
+"02-04": {
+"events": [
+{
+"title": "Världscancerdagen",
+"desc": "En viktig dag för att sprida kunskap och visa stöd för alla som drabbas. Tillsammans är vi starka!"
+},
+{
+"title": "Vargens dag",
+"desc": "Vi skänker en tanke till skogens mest mytomspunna rovdjur. Yla gärna lite extra på lunchen!"
+}
+],
+"color": "#b2bec3"
+},
+"02-05": {
+"events": [
+{
+"title": "Runebergsdagen",
+"desc": "Våra finska grannar firar sin nationalskald med goda bakelser. En perfekt ursäkt för ännu en fika!"
+}
+],
+"color": "#74b9ff"
+},
+"02-06": {
+"events": [
+{
+"title": "Samernas nationaldag",
+"desc": "Vi firar samernas gemensamma nationaldag! En dag för stolthet, kultur och gemenskap över gränserna."
+}
+],
+"color": "#d63031"
+},
+"02-07": {
+"events": [
+{
+"title": "Tankeläsardagen",
+"desc": "Idag försöker vi förstå vad kollegorna egentligen menar. 'Jag ska bara...' betyder oftast 'hjälp mig!'"
+}
+],
+"color": "#a29bfe"
+},
+"02-08": {
+"events": [
+{
+"title": "Äggahalvans dag",
+"desc": "En hyllning till den trogna bufféklassikern. Med eller utan kaviar, det är frågan!"
+}
+],
+"color": "#ffeaa7"
+},
+"02-09": {
+"events": [
+{
+"title": "Internationella pizzadagen (USA)",
+"desc": "Ja, USA firar pizza idag igen. Man kan tydligen aldrig få för mycket pizza i en kalender!"
+}
+],
+"color": "#fab1a0"
+},
+"02-10": {
+"events": [
+{
+"title": "Baljväxternas dag",
+"desc": "Bönor, linser och ärtor! Billigt, nyttigt och idag är de kungar i köket."
+}
+],
+"color": "#55efc4"
+},
+"02-11": {
+"events": [
+{
+"title": "Världsdagen för sjuka",
+"desc": "Vi skänker en extra varm tanke till alla som kämpar med hälsan idag."
+},
+{
+"title": "Internationella dagen för kvinnor och flickor inom vetenskap",
+"desc": "Heja alla smarta kvinnor som driver världen framåt med forskning och klokskap!"
+}
+],
+"color": "#fd79a8"
+},
+"02-12": {
+"events": [
+{
+"title": "Darwins dag",
+"desc": "Vi firar evolutionen! Från urcell till kontorsmänniska med kaffekopp – vilken resa!"
+},
+{
+"title": "Djurens dag",
+"desc": "Ge ditt husdjur (eller en förbipasserande fågel) en extra vänlig blick idag."
+}
+],
+"color": "#fdcb6e"
+},
+"02-13": {
+"events": [
+{
+"title": "Världsradiodagen",
+"desc": "En hyllning till mediet som alltid finns där i bakgrunden. Vad vore livet utan bra radio?"
+},
+{
+"title": "Tandborstbytardagen",
+"desc": "Ärligt talat... hur länge har du haft din? Idag är dagen då den gamla åker ut!"
+}
+],
+"color": "#81ecec"
+},
+"02-14": {
+"events": [
+{
+"title": "Alla hjärtans dag",
+"desc": "Kärlek, vänskap och massor av geléhjärtan. Idag är vi extra snälla mot varandra!"
+},
+{
+"title": "Låna en bok-dagen",
+"desc": "Passa på att besöka biblioteket och hitta ett nytt äventyr mellan två pärmar."
+}
+],
+"color": "#ff7675"
+},
+"02-15": {
+"events": [
+{
+"title": "Internationella barncancerdagen",
+"desc": "Vi tänder ett ljus och visar vårt stöd för de minsta kämparna."
+},
+{
+"title": "Geléhallonens dag",
+"desc": "En rosa sockerdröm! Perfekt att rensa skålarna efter gårdagens firande."
+}
+],
+"color": "#fd79a8"
+},
+"02-16": {
+"events": [
+{
+"title": "Litauens nationaldag",
+"desc": "Vi gratulerar Litauen på deras stora dag med en digital salut!"
+}
+],
+"color": "#fdcb6e"
+},
+"02-17": {
+"events": [
+{
+"title": "Kolla-upp-ditt-släktträd-dagen",
+"desc": "Vem tror du att du är? Idag gräver vi lite i historien för att se var vi kommer ifrån."
+}
+],
+"color": "#636e72"
+},
+"02-18": {
+"events": [
+{
+"title": "Fotens dag",
+"desc": "Våra fötter bär oss genom livet. Idag förtjänar de kanske ett par nya strumpor eller ett fotbad!"
+}
+],
+"color": "#81ecec"
+},
+"02-19": {
+"events": [
+{
+"title": "Knäckebrödets dag",
+"desc": "Det knaprigaste vi har i skafferiet! Firas bäst med en rejäl klick smör och lite flingsalt."
+}
+],
+"color": "#fdcb6e"
+},
+"02-20": {
+"events": [
+{
+"title": "Världsdagen för social rättvisa",
+"desc": "En dag för att reflektera över hur vi kan göra världen lite mer rättvis för alla."
+},
+{
+"title": "Slarviga skrivbordets dag",
+"desc": "Äntligen! Dagen då kaoset på skrivbordet inte är ett problem, utan en livsstil."
+}
+],
+"color": "#74b9ff"
+},
+"02-21": {
+"events": [
+{
+"title": "Internationella modersmålsdagen",
+"desc": "Vi firar språklig mångfald! Lär dig ett nytt ord på ett annat språk idag."
+}
+],
+"color": "#55efc4"
+},
+"02-22": {
+"events": [
+{
+"title": "Alla scouters dag",
+"desc": "Var redo! Vi hyllar gemenskapen och äventyren i det fria."
+}
+],
+"color": "#00b894"
+},
+"02-23": {
+"events": [
+{
+"title": "Internationella sök-och-finn-dagen",
+"desc": "Var la jag nycklarna? Var är fjärrkontrollen? Idag gör vi en sport av att hitta det som tappats bort."
+}
+],
+"color": "#ffeaa7"
+},
+"02-24": {
+"events": [
+{
+"title": "Sverigefinnarnas dag",
+"desc": "Vi firar den sverigefinska minoritetens kultur och språk. Grattis!"
+}
+],
+"color": "#0984e3"
+},
+"02-25": {
+"events": [
+{
+"title": "Grapefruktens dag",
+"desc": "Bittert men bättre än man tror! En vitaminchock som rensar systemet inför våren."
+}
+],
+"color": "#fab1a0"
+},
+"02-26": {
+"events": [
+{
+"title": "Pistaschmandels dag",
+"desc": "De små gröna nötterna som är omöjliga att sluta äta när man väl börjat."
+}
+],
+"color": "#55efc4"
+},
+"02-27": {
+"events": [
+{
+"title": "Internationella isbjörnsdagen",
+"desc": "Vi tänker på Arktis kungar och vikten av att vara rädda om vårt klimat."
+}
+],
+"color": "#81ecec"
+},
+"02-28": {
+"events": [
+{
+"title": "Kalevaladagen",
+"desc": "Den finska kulturens dag. Vi firar med sagor, myter och kanske lite sisu!"
+},
+{
+"title": "Musarmens dag",
+"desc": "En viktig påminnelse: Släpp musen, sträck på fingrarna och gör dina pausövningar!"
+}
+],
+"color": "#74b9ff"
+},
+"02-29": {
+"events": [
+{
+"title": "Skottdagen",
+"desc": "Dagen som bara dyker upp vart fjärde år! Idag har vi fått 24 timmar helt gratis – använd dem väl!"
+}
+],
+"color": "#6c5ce7"
+}
+}

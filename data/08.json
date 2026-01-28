@@ -1,0 +1,313 @@
+{
+"08-01": {
+"events": [
+{
+"title": "Alla flickvänners dag",
+"desc": "En dag att skämma bort sin partner lite extra. En liten gest eller en komplimang kan göra hela dagen!"
+}
+],
+"color": "#fd79a8"
+},
+"08-02": {
+"events": [
+{
+"title": "Ölets dag",
+"desc": "Vi hyllar bryggarkonsten! Idag lär vi oss mer om hantverket bakom de olika sorterna."
+}
+],
+"color": "#fdcb6e"
+},
+"08-03": {
+"events": [
+{
+"title": "Vattenmelonsens dag",
+"desc": "Svalkande, söt och somrig. Den ultimata frukten för en varm augustidag!"
+}
+],
+"color": "#ff7675"
+},
+"08-04": {
+"events": [
+{
+"title": "Hemvändardagen",
+"desc": "Många passar på att besöka sina rötter i slutet av semestern. Varifrån kommer du?"
+}
+],
+"color": "#55efc4"
+},
+"08-05": {
+"events": [
+{
+"title": "Senapens dag",
+"desc": "Grovmalen, söt eller stark? Idag är det korvens bästa vän som står i centrum."
+}
+],
+"color": "#ffeaa7"
+},
+"08-06": {
+"events": [
+{
+"title": "Hiroshimadagen",
+"desc": "En dag för eftertanke och en bön om världsfred. Vi minns historien för att inte upprepa den."
+}
+],
+"color": "#2d3436"
+},
+"08-07": {
+"events": [
+{
+"title": "Fyrverkeriets dag",
+"desc": "Vi firar ljuset och färgerna på natthimlen. En sprakande hyllning till festligheter!"
+}
+],
+"color": "#6c5ce7"
+},
+"08-08": {
+"events": [
+{
+"title": "Internationella kattdagen",
+"desc": "Mjao! Idag skämmer vi bort våra spinnande vänner lite extra med lyxmat och lek."
+},
+{
+"title": "Lyckans dag",
+"desc": "Vad gör dig lycklig? Idag fokuserar vi på de små sakerna som ger guldkant åt tillvaron."
+}
+],
+"color": "#fab1a0"
+},
+"08-09": {
+"events": [
+{
+"title": "Rulltårtans dag",
+"desc": "Världens snabbaste bakverk! Fylld med sylt eller smörkräm – en klassiker som aldrig går ur tiden."
+},
+{
+"title": "Internationella dagen för världens ursprungsfolk",
+"desc": "Vi uppmärksammar och hedrar kulturerna och rättigheterna för alla ursprungsfolk."
+}
+],
+"color": "#fdcb6e"
+},
+"08-10": {
+"events": [
+{
+"title": "Larsdagen",
+"desc": "Enligt gammal folktro börjar hösten nu, men vi väljer att tro på att sommaren stannar ett tag till!"
+}
+],
+"color": "#81ecec"
+},
+"08-11": {
+"events": [
+{
+"title": "Egenföretagarens dag",
+"desc": "Heja alla som vågar satsa på sin dröm! Idag hyllar vi drivkraften och modet hos våra entreprenörer."
+}
+],
+"color": "#74b9ff"
+},
+"08-12": {
+"events": [
+{
+"title": "Internationella ungdomsdagen",
+"desc": "Ungdomar är inte bara framtiden, de är nuet! Vi firar deras engagemang och energi."
+},
+{
+"title": "Världselefantdagen",
+"desc": "Vi tänker på de ståtliga elefanterna och vikten av att skydda dem mot tjuvjakt."
+}
+],
+"color": "#a29bfe"
+},
+"08-13": {
+"events": [
+{
+"title": "Vänsterhäntas dag",
+"desc": "Idag hyllar vi alla som kämpar med saxar och anteckningsblock designade för högerhänta. Ni är unika!"
+}
+],
+"color": "#55efc4"
+},
+"08-14": {
+"events": [
+{
+"title": "Lagersalladens dag",
+"desc": "En underskattad hjälte i kylskåpet. Idag äter vi grönt och krispigt!"
+}
+],
+"color": "#00b894"
+},
+"08-15": {
+"events": [
+{
+"title": "Surtantens dag",
+"desc": "En dag med glimten i ögat! Idag får man vara lite vresig om man vill – eller så firar vi dem som vågar ryta ifrån."
+}
+],
+"color": "#ffeaa7"
+},
+"08-16": {
+"events": [
+{
+"title": "Berättardagen",
+"desc": "Dela med dig av ett minne från sommaren. Berättelser är det som bygger vår gemenskap."
+}
+],
+"color": "#fd79a8"
+},
+"08-17": {
+"events": [
+{
+"title": "Dagen för hemlösa djur",
+"desc": "En påminnelse om att alla djur förtjänar ett kärleksfullt hem. Stöd ditt lokala djurhem!"
+}
+],
+"color": "#b2bec3"
+},
+"08-18": {
+"events": [
+{
+"title": "Fyrvaktarens dag",
+"desc": "Vi tänker på de ensamma väktarna vid havet som har guidat skepp säkert i hamn genom tiderna."
+}
+],
+"color": "#ffeaa7"
+},
+"08-19": {
+"events": [
+{
+"title": "Världsdagen för humanitärt arbete",
+"desc": "Vi hedrar dem som riskerar sina liv för att hjälpa andra i krisdrabbade områden."
+},
+{
+"title": "Internationella dagen för fotografering",
+"desc": "Fram med kameran! Fånga ett ögonblick som aldrig kommer igen."
+}
+],
+"color": "#74b9ff"
+},
+"08-20": {
+"events": [
+{
+"title": "Honungens dag",
+"desc": "Tack vare bina får vi denna gyllene nektar. Sött, gott och nyttigt!"
+}
+],
+"color": "#fdcb6e"
+},
+"08-21": {
+"events": [
+{
+"title": "Alla pensionärers dag",
+"desc": "Vi hyllar erfarenhet och visdom! Ta en fika med en äldre släkting eller granne idag."
+},
+{
+"title": "Surströmmingspremiären",
+"desc": "Älskad eller fruktad! Idag öppnas burkarna och doften (eller stanken) sprider sig."
+}
+],
+"color": "#ffeaa7"
+},
+"08-22": {
+"events": [
+{
+"title": "Maten är klar-dagen",
+"desc": "Att få sätta sig vid ett dukat bord är vardagslyx. Idag tackar vi kocken lite extra!"
+}
+],
+"color": "#ff7675"
+},
+"08-23": {
+"events": [
+{
+"title": "Köttbullens dag",
+"desc": "Sveriges mest kända maträtt? Med lingon, pressgurka och gräddsås är lyckan total."
+},
+{
+"title": "Internationella dagen till minne av slaveriet och dess avskaffande",
+"desc": "En viktig dag för mänskliga rättigheter och reflektion över historien."
+}
+],
+"color": "#e17055"
+},
+"08-24": {
+"events": [
+{
+"title": "Ukrainas nationaldag",
+"desc": "Vi skickar tankar och stöd till Ukraina på deras stora dag."
+},
+{
+"title": "Årsdagen för Vesuvius utbrott",
+"desc": "Vi påminns om naturens krafter och historiens vingslag från Pompeji."
+}
+],
+"color": "#0984e3"
+},
+"08-25": {
+"events": [
+{
+"title": "Plånbokens dag",
+"desc": "För de flesta är det lön idag! En bra dag att se över sin ekonomi – eller unna sig något litet."
+}
+],
+"color": "#55efc4"
+},
+"08-26": {
+"events": [
+{
+"title": "Alla hundars dag",
+"desc": "Människans bästa vän förtjänar en hel dag av kli bakom öronen och extra långa promenader!"
+},
+{
+"title": "Jämställdhetsdagen",
+"desc": "Vi firar framsteg och påminner oss om att arbetet för en jämställd värld fortsätter varje dag."
+}
+],
+"color": "#fd79a8"
+},
+"08-27": {
+"events": [
+{
+"title": "Sveriges oberoende-dag",
+"desc": "En dag att fira vår frihet och vårt vackra land."
+}
+],
+"color": "#0984e3"
+},
+"08-28": {
+"events": [
+{
+"title": "Hemslöjdens dag",
+"desc": "Kreativitet med händerna! Idag hyllar vi det unika hantverket som tar tid att skapa."
+}
+],
+"color": "#fdcb6e"
+},
+"08-29": {
+"events": [
+{
+"title": "Internationella dagen mot kärnvapenprov",
+"desc": "En dag för en säkrare värld utan hot från massförstörelsevapen."
+}
+],
+"color": "#2d3436"
+},
+"08-30": {
+"events": [
+{
+"title": "Internationella dagen för försvunna personer",
+"desc": "Vi tänker på de saknade och deras anhöriga världen över."
+}
+],
+"color": "#b2bec3"
+},
+"08-31": {
+"events": [
+{
+"title": "Överdosmedvetandedagen",
+"desc": "En dag för att minnas dem vi förlorat och arbeta för att förhindra framtida tragedier."
+}
+],
+"color": "#a29bfe"
+}
+}

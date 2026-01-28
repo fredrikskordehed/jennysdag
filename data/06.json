@@ -1,0 +1,308 @@
+{
+"06-01": {
+"events": [
+{
+"title": "Mobilfria dagen",
+"desc": "Vågar du lägga undan mobilen en stund idag? Testa att vara helt närvarande i nuet (efter att du läst klart det här, förstås)!"
+},
+{
+"title": "Mjölkens dag",
+"desc": "Vi hyllar det vita guldet! En dag för att tänka på landsbygden och våra svenska mjölkbönder."
+}
+],
+"color": "#81ecec"
+},
+"06-02": {
+"events": [
+{
+"title": "Internationella horans dag",
+"desc": "En dag för att belysa mänskliga rättigheter och säkerhet för sexarbetare världen över."
+}
+],
+"color": "#b2bec3"
+},
+"06-03": {
+"events": [
+{
+"title": "Internationella cykeldagen",
+"desc": "Trampa igång! Idag firar vi det mest miljövänliga och hälsosamma sättet att ta sig fram."
+}
+],
+"color": "#55efc4"
+},
+"06-04": {
+"events": [
+{
+"title": "Krama en revisor-dagen",
+"desc": "De håller koll på siffrorna så vi slipper. Ge din lokala siffergranskare lite extra kärlek idag!"
+}
+],
+"color": "#ffeaa7"
+},
+"06-05": {
+"events": [
+{
+"title": "Världsmiljödagen",
+"desc": "Vad kan vi göra för vår planet? Idag sätter vi fokus på de små handlingarna som gör stor skillnad."
+},
+{
+"title": "Danska grundlagsdagen",
+"desc": "Vi gratulerar våra grannar i söder på deras nationaldag! Heja Danmark!"
+}
+],
+"color": "#00b894"
+},
+"06-06": {
+"events": [
+{
+"title": "Sveriges nationaldag",
+"desc": "Vi firar blågult med flaggor, picknick och nationalsång. En dag för stolthet och gemenskap!"
+},
+{
+"title": "Färskpotatisens dag",
+"desc": "Äntligen! De små primörerna är här. Glöm inte smöret och dillen!"
+}
+],
+"color": "#0984e3"
+},
+"06-07": {
+"events": [
+{
+"title": "Sjuarmade ljusstakens dag",
+"desc": "En symbolisk dag för ljus och hopp. Låt det lysa lite extra idag!"
+}
+],
+"color": "#ffeaa7"
+},
+"06-08": {
+"events": [
+{
+"title": "Världshavens dag",
+"desc": "Vi tänker på de stora blå haven och vikten av att hålla dem rena från plast och skräp."
+},
+{
+"title": "Bästisdagen",
+"desc": "Hör av dig till din bästa vän och berätta hur mycket hen betyder. Vänskap är livets krydda!"
+}
+],
+"color": "#74b9ff"
+},
+"06-09": {
+"events": [
+{
+"title": "Internationella arkivdagen",
+"desc": "Ordning och reda! Idag hyllar vi alla som sparar vår historia för framtiden."
+}
+],
+"color": "#b2bec3"
+},
+"06-10": {
+"events": [
+{
+"title": "Portugalens dag",
+"desc": "Vi skickar en varm hälsning till Portugal på deras nationaldag!"
+}
+],
+"color": "#ff7675"
+},
+"06-11": {
+"events": [
+{
+"title": "Systerskapets dag",
+"desc": "En dag för att stötta och lyfta varandra. Tillsammans når vi högre!"
+}
+],
+"color": "#fd79a8"
+},
+"06-12": {
+"events": [
+{
+"title": "Världsdagen mot barnarbete",
+"desc": "En viktig påminnelse om att alla barn har rätt till en barndom och skolgång."
+}
+],
+"color": "#d63031"
+},
+"06-13": {
+"events": [
+{
+"title": "Svenska flaggans dag (Historisk)",
+"desc": "Vi fortsätter fira våra färger! Även om nationaldagen är 6:e juni, minns vi historien idag."
+}
+],
+"color": "#0984e3"
+},
+"06-14": {
+"events": [
+{
+"title": "Världsblodgivardagen",
+"desc": "Ge blod och rädda liv! En liten insats för dig, men hela världen för någon annan."
+}
+],
+"color": "#d63031"
+},
+"06-15": {
+"events": [
+{
+"title": "De vilda blommornas dag",
+"desc": "Ut på ängen och titta! Idag njuter vi av den svenska florans otroliga färgprakt."
+}
+],
+"color": "#55efc4"
+},
+"06-16": {
+"events": [
+{
+"title": "Internationella dagen för familjeåtersändning",
+"desc": "Vi tänker på vikten av att familjer får vara tillsammans, oavsett var i världen de befinner sig."
+}
+],
+"color": "#a29bfe"
+},
+"06-17": {
+"events": [
+{
+"title": "Islands nationaldag",
+"desc": "Gratulerar med dagen, Island! Vi firar sagornas och gejsrarnas ö."
+},
+{
+"title": "Världsdagen för bekämpning av ökenutbredning och torka",
+"desc": "Ett viktigt fokus på klimatförändringar och vår jord."
+}
+],
+"color": "#74b9ff"
+},
+"06-18": {
+"events": [
+{
+"title": "Internationella picknickdagen",
+"desc": "Packa korgen! Mat smakar alltid bäst utomhus, gärna på en filt i gröngräset."
+},
+{
+"title": "Hållbar gastronomidag",
+"desc": "Njut av mat som gör gott för både kroppen och miljön."
+}
+],
+"color": "#55efc4"
+},
+"06-19": {
+"events": [
+{
+"title": "Världsdagen för eliminering av sexuellt våld i konflikter",
+"desc": "En dag för solidaritet och krav på rättvisa för de drabbade."
+}
+],
+"color": "#2d3436"
+},
+"06-20": {
+"events": [
+{
+"title": "Världsdagen för flyktingar",
+"desc": "Vi visar stöd och medmänsklighet för alla som tvingats lämna sina hem."
+}
+],
+"color": "#74b9ff"
+},
+"06-21": {
+"events": [
+{
+"title": "Sommarsolståndet",
+"desc": "Årets längsta dag! Njut av ljuset så länge du bara kan."
+},
+{
+"title": "Internationella yogadagen",
+"desc": "Andas in, andas ut. En perfekt dag för lite inre lugn och rörlighet."
+},
+{
+"title": "Internationella musikdagen",
+"desc": "Högsta volym! Idag firar vi att musiken förenar oss över alla gränser."
+}
+],
+"color": "#ffeaa7"
+},
+"06-22": {
+"events": [
+{
+"title": "Bussens dag",
+"desc": "Tuta och kör! Vi uppmärksammar bussens viktiga roll i vår vardagspendling."
+}
+],
+"color": "#fdcb6e"
+},
+"06-23": {
+"events": [
+{
+"title": "FN:s dag för offentliga tjänster",
+"desc": "Vi tackar alla som jobbar inom det offentliga för att vårt samhälle ska fungera."
+}
+],
+"color": "#0984e3"
+},
+"06-24": {
+"events": [
+{
+"title": "Johannes Döparens dag",
+"desc": "En dag med djupa historiska rötter som ofta kopplas till midsommarfirandet."
+}
+],
+"color": "#b2bec3"
+},
+"06-25": {
+"events": [
+{
+"title": "Sjömannens dag",
+"desc": "Vi skickar en tanke till alla som befinner sig på de sju haven just nu."
+}
+],
+"color": "#74b9ff"
+},
+"06-26": {
+"events": [
+{
+"title": "Internationella dagen mot missbruk och olaglig handel med narkotika",
+"desc": "En dag för hälsa, stöd och en drogfri framtid."
+}
+],
+"color": "#2d3436"
+},
+"06-27": {
+"events": [
+{
+"title": "Sjuvaresovardagen",
+"desc": "Legenden säger att om det regnar idag, regnar det i sju veckor. Vi håller tummarna för sol!"
+}
+],
+"color": "#81ecec"
+},
+"06-28": {
+"events": [
+{
+"title": "Internationella stolthetsdagen (Pride)",
+"desc": "Var den du är! Vi firar kärleken och rätten att vara sig själv fullt ut."
+}
+],
+"color": "#6c5ce7"
+},
+"06-29": {
+"events": [
+{
+"title": "Fiskens dag",
+"desc": "Idag hyllar vi allt under ytan. Kanske läge för en fisketur eller en god fiskrätt till middag?"
+}
+],
+"color": "#74b9ff"
+},
+"06-30": {
+"events": [
+{
+"title": "Asteroiddagen",
+"desc": "Vi blickar uppåt mot rymden och påminner oss om att vi bor på en ganska liten men fantastisk planet."
+},
+{
+"title": "Pilsnerfilmens dag",
+"desc": "Dags för lite gammal hederlig svensk filmglädje. 'Åsa-Nisse' eller 'Pensionat Paradiset'?"
+}
+],
+"color": "#2d3436"
+}
+}

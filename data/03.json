@@ -1,0 +1,325 @@
+{
+"03-01": {
+"events": [
+{
+"title": "Kramens dag (USA/Internationell)",
+"desc": "Man kan aldrig få för många kramar! Om du inte kan ge en fysisk kram idag, skicka en digital sådan till en kollega."
+},
+{
+"title": "Internationella säljardagen",
+"desc": "Idag hyllar vi alla som kämpar med affärerna. Utan sälj stannar världen, så ge våra säljare en extra high-five!"
+}
+],
+"color": "#55efc4"
+},
+"03-02": {
+"events": [
+{
+"title": "Serietidningens dag",
+"desc": "Dags att damma av Kalle Anka eller Marvel-samlingen. Serier är inte bara för barn, det är konst!"
+}
+],
+"color": "#fdcb6e"
+},
+"03-03": {
+"events": [
+{
+"title": "Mandelkubbens dag",
+"desc": "En riktig klassiker på kakfatet. Antingen älskar man den, eller så har man inte förstått charmen än!"
+},
+{
+"title": "Världsdagen för vilda djur och växter",
+"desc": "Vi påminns om den fantastiska biologiska mångfald vi har på vår planet och hur vi kan skydda den."
+}
+],
+"color": "#ffeaa7"
+},
+"03-04": {
+"events": [
+{
+"title": "Bananskalets dag",
+"desc": "Halkrisk eller komposthjälte? Idag hyllar vi bananens skyddande hölje och påminner oss om att återvinna ordentligt."
+}
+],
+"color": "#fab1a0"
+},
+"03-05": {
+"events": [
+{
+"title": "Cheese Doodle Day",
+"desc": "Ostbågar, ostkrokar... oavsett vad du kallar dem så är det idag vi får bli ordentligt orangea om fingrarna!"
+}
+],
+"color": "#fdcb6e"
+},
+"03-06": {
+"events": [
+{
+"title": "Europeiska logopedidagen",
+"desc": "Vi uppmärksammar vikten av kommunikation och rätten att kunna göra sin röst hörd."
+}
+],
+"color": "#74b9ff"
+},
+"03-07": {
+"events": [
+{
+"title": "Punschrullens dag",
+"desc": "Dammsugare, 150-ohmare eller punschrulle. Kärt barn har många namn och idag smakar den extra gott till kaffet!"
+}
+],
+"color": "#55efc4"
+},
+"03-08": {
+"events": [
+{
+"title": "Internationella kvinnodagen",
+"desc": "En dag för att fira framsteg, men också belysa ojämlikheter som kvarstår. Heja alla fantastiska kvinnor!"
+}
+],
+"color": "#fd79a8"
+},
+"03-09": {
+"events": [
+{
+"title": "Tomatsåsens dag",
+"desc": "Basen i nästan allt gott! Idag hyllar vi den sjudande kastrullen som sprider doft i hela köket."
+}
+],
+"color": "#ff7675"
+},
+"03-10": {
+"events": [
+{
+"title": "Världsnjurdagen",
+"desc": "Vi lär oss mer om våra kroppars fantastiska reningsverk och vikten av god hälsa."
+}
+],
+"color": "#81ecec"
+},
+"03-11": {
+"events": [
+{
+"title": "Europeiska minnesdagen för offer för terrorism",
+"desc": "En dag för eftertanke, respekt och sammanhållning mot våld."
+}
+],
+"color": "#2d3436"
+},
+"03-12": {
+"events": [
+{
+"title": "Världsglaukomdagen",
+"desc": "En påminnelse om att ta hand om vår syn och gå på regelbundna kontroller."
+},
+{
+"title": "Kronprinsessans namnsdag",
+"desc": "Vi firar Victoria! Ett namn som betyder seger, och det gillar vi ju!"
+}
+],
+"color": "#a29bfe"
+},
+"03-13": {
+"events": [
+{
+"title": "Mazarindagen",
+"desc": "Den perfekta kombinationen av mördeg, mandelmassa och vit glasyr. En kung bland bakverk!"
+}
+],
+"color": "#ffeaa7"
+},
+"03-14": {
+"events": [
+{
+"title": "Pi-dagen",
+"desc": "3.14... Idag firar alla matematikfans (och vi andra äter paj eftersom 'Pi' låter som 'Pie')!"
+},
+{
+"title": "Världssöndagen",
+"desc": "Ofta infaller den internationella sömndagen här i närheten. Sov ut och ladda batterierna!"
+}
+],
+"color": "#74b9ff"
+},
+"03-15": {
+"events": [
+{
+"title": "Internationella konsumentdagen",
+"desc": "Känn till dina rättigheter! En dag för medvetenhet kring vad vi köper och hur det påverkar världen."
+}
+],
+"color": "#fab1a0"
+},
+"03-16": {
+"events": [
+{
+"title": "Självbetjäningens dag",
+"desc": "Idag hyllar vi allt vi fixar själva – från bankärenden till att brygga sitt eget kaffe!"
+}
+],
+"color": "#55efc4"
+},
+"03-17": {
+"events": [
+{
+"title": "Saint Patrick's Day",
+"desc": "Allt blir grönt idag! Vi firar Irlands nationaldag med glatt humör och kanske lite irländsk folkmusik."
+},
+{
+"title": "Kollektivavtalets dag",
+"desc": "Vi firar den svenska modellen och de trygga ramar som gör att vi kan jobba bra ihop."
+}
+],
+"color": "#00b894"
+},
+"03-18": {
+"events": [
+{
+"title": "Bussförarens dag",
+"desc": "Säg hej och tack till din chaufför idag! De ser till att vi kommer dit vi ska, oavsett väder."
+}
+],
+"color": "#fdcb6e"
+},
+"03-19": {
+"events": [
+{
+"title": "Supporterns dag",
+"desc": "Idag hyllar vi eldsjälarna på läktaren. Utan fansen är sporten ingenting!"
+}
+],
+"color": "#ff7675"
+},
+"03-20": {
+"events": [
+{
+"title": "Internationella glädjedagen",
+"desc": "Gör någon glad idag! Ett leende smittar mer än man tror."
+},
+{
+"title": "Världsberättardagen",
+"desc": "Dela med dig av en historia. Berättelser förenar oss och bygger broar."
+},
+{
+"title": "Vårdagjämningen",
+"desc": "Nu är dag och natt lika långa. Nu vinner ljuset över mörkret på riktigt!"
+}
+],
+"color": "#ffeaa7"
+},
+"03-21": {
+"events": [
+{
+"title": "Rocka sockorna-dagen",
+"desc": "Vi firar att alla är olika! Ta på dig två olika strumpor och visa att annorlunda är bra."
+},
+{
+"title": "Världspoesidagen",
+"desc": "Läs en dikt, skriv en rad. Poesi ger själen vingar."
+}
+],
+"color": "#6c5ce7"
+},
+"03-22": {
+"events": [
+{
+"title": "Världsvattendagen",
+"desc": "Vatten är liv. Idag påminner vi oss om hur viktigt det är att vara rädd om vårt blå guld."
+}
+],
+"color": "#0984e3"
+},
+"03-23": {
+"events": [
+{
+"title": "Nordens dag",
+"desc": "Vi firar samarbetet mellan de nordiska länderna. Heja Norden!"
+},
+{
+"title": "Världsmeteorologidagen",
+"desc": "Vi tackar alla som försöker spå vädret (även när det blir regn trots att de lovat sol)."
+}
+],
+"color": "#81ecec"
+},
+"03-24": {
+"events": [
+{
+"title": "Världstuberkulosdagen",
+"desc": "Vi uppmärksammar kampen mot en av världens mest spridda sjukdomar."
+},
+{
+"title": "Europeiska dagen för hantverksmässigt tillverkad glass",
+"desc": "Glass sägs smaka som bäst i mars när solen börjar titta fram. Ut och testa en hantverksglass!"
+}
+],
+"color": "#fab1a0"
+},
+"03-25": {
+"events": [
+{
+"title": "Våffeldagen",
+"desc": "Frasiga hjärtan med sylt och grädde! Ursprungligen 'Vårfrudagen', men vi klagar inte på missförståndet."
+},
+{
+"title": "Trandagen",
+"desc": "I vissa delar av landet kommer tranan med godis till barnen inatt. Håll utkik!"
+}
+],
+"color": "#fdcb6e"
+},
+"03-26": {
+"events": [
+{
+"title": "Lila dagen (Epilepsidagen)",
+"desc": "Vi bär lila för att öka medvetenheten om epilepsi och visa vårt stöd."
+}
+],
+"color": "#a29bfe"
+},
+"03-27": {
+"events": [
+{
+"title": "Världsteaterdagen",
+"desc": "All världen är en scen! Idag hyllar vi dramatiken och skådespelarkonsten."
+}
+],
+"color": "#d63031"
+},
+"03-28": {
+"events": [
+{
+"title": "Huvudvärkens dag",
+"desc": "En påminnelse om att dricka vatten, vila ögonen från skärmen och ta hand om knoppen."
+}
+],
+"color": "#b2bec3"
+},
+"03-29": {
+"events": [
+{
+"title": "Cykeltvättardagen",
+"desc": "Dags att göra pärlan redo för vårens utflykter. Lite tvål och vatten gör underverk!"
+}
+],
+"color": "#55efc4"
+},
+"03-30": {
+"events": [
+{
+"title": "Biets dag",
+"desc": "Utan bin, ingen mat. Vi hyllar naturens flitigaste arbetare!"
+}
+],
+"color": "#fdcb6e"
+},
+"03-31": {
+"events": [
+{
+"title": "Världsdagen för backup",
+"desc": "Har du sparat dina filer? Gör en backup idag innan det är för sent. Din framtida jag kommer tacka dig!"
+}
+],
+"color": "#74b9ff"
+}
+}

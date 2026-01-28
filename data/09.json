@@ -1,0 +1,304 @@
+{
+"09-01": {
+"events": [
+{
+"title": "Fritidshemmens dag",
+"desc": "Idag hyllar vi den viktiga verksamheten som ger barn en meningsfull fritid och stöd i utvecklingen!"
+}
+],
+"color": "#fab1a0"
+},
+"09-02": {
+"events": [
+{
+"title": "Gula bilens dag",
+"desc": "Håll ögonen öppna på vägarna! Först att se en gul bil får önska sig något (eller dela ut en vänlig knuff)."
+}
+],
+"color": "#ffeaa7"
+},
+"09-03": {
+"events": [
+{
+"title": "Dagen för biologisk bekämpning",
+"desc": "Vi lär oss mer om hur naturen själv kan hjälpa till att hålla balansen i våra trädgårdar."
+}
+],
+"color": "#00b894"
+},
+"09-04": {
+"events": [
+{
+"title": "Hälsovårdens dag",
+"desc": "En dag att fokusera på förebyggande hälsa. Hur mår din kropp och knopp idag?"
+}
+],
+"color": "#81ecec"
+},
+"09-05": {
+"events": [
+{
+"title": "Internationella välgörenhetsdagen",
+"desc": "Moder Teresas dödsdag. Kan du göra en liten god gärning för någon annan idag?"
+}
+],
+"color": "#ff7675"
+},
+"09-06": {
+"events": [
+{
+"title": "Sextonårsdagen för rökfria miljöer",
+"desc": "Vi firar rätten till frisk luft på våra gemensamma platser!"
+}
+],
+"color": "#55efc4"
+},
+"09-07": {
+"events": [
+{
+"title": "Salamins dag",
+"desc": "En favorit på charkbrickan! Idag provar vi olika sorters hantverksmässigt gjord salami."
+}
+],
+"color": "#e17055"
+},
+"09-08": {
+"events": [
+{
+"title": "Internationella läskunnighetsdagen",
+"desc": "Att kunna läsa är en mänsklig rättighet och nyckeln till kunskap. Vi uppmärksammar kampen mot analfabetism."
+},
+{
+"title": "Svampens dag",
+"desc": "Ut i skogen och leta efter skogens guld! Men plocka bara det du är helt säker på."
+}
+],
+"color": "#fdcb6e"
+},
+"09-09": {
+"events": [
+{
+"title": "Yrkesförarens dag",
+"desc": "Tack till alla som håller Sverige rullande dygnet runt, oavsett väder!"
+}
+],
+"color": "#b2bec3"
+},
+"09-10": {
+"events": [
+{
+"title": "Världsdagen för suicidprevention",
+"desc": "En livsviktig dag för att våga prata om psykisk ohälsa. Tillsammans kan vi rädda liv."
+}
+],
+"color": "#a29bfe"
+},
+"09-11": {
+"events": [
+{
+"title": "Kebabens dag",
+"desc": "Sveriges mest populära snabbmat? Idag unnar vi oss en riktigt god rulle eller tallrik."
+}
+],
+"color": "#e17055"
+},
+"09-12": {
+"events": [
+{
+"title": "Internationella dagen för syd-syd-samarbete",
+"desc": "Vi belyser vikten av samarbete mellan utvecklingsländer för en bättre värld."
+}
+],
+"color": "#74b9ff"
+},
+"09-13": {
+"events": [
+{
+"title": "Programmerarens dag",
+"desc": "Den 256:e dagen på året! Vi hyllar alla kodare som får vår digitala värld att fungera."
+}
+],
+"color": "#2d3436"
+},
+"09-14": {
+"events": [
+{
+"title": "Kulturarvsdagen",
+"desc": "Vi besöker historiska platser och lär oss mer om våra gemensamma rötter."
+}
+],
+"color": "#b2bec3"
+},
+"09-15": {
+"events": [
+{
+"title": "Internationella demokratidagen",
+"desc": "Demokrati är inget vi kan ta för givet. Idag firar vi rätten att få göra vår röst hörd."
+},
+{
+"title": "Kulturhusens dag",
+"desc": "Dörrarna öppnas till våra fantastiska mötesplatser för konst och kultur!"
+}
+],
+"color": "#6c5ce7"
+},
+"09-16": {
+"events": [
+{
+"title": "Internationella dagen för bevarande av ozonskiktet",
+"desc": "Vi påminner oss om vikten av att skydda atmosfären för framtida generationer."
+}
+],
+"color": "#74b9ff"
+},
+"09-17": {
+"events": [
+{
+"title": "Högviltets dag",
+"desc": "Vi fokuserar på viltvård och våra stora skogsdjur som älg och hjort."
+}
+],
+"color": "#00b894"
+},
+"09-18": {
+"events": [
+{
+"title": "Internationella dagen för lika lön",
+"desc": "En påminnelse om att arbete av lika värde ska belönas lika, oavsett kön."
+}
+],
+"color": "#fd79a8"
+},
+"09-19": {
+"events": [
+{
+"title": "Prata som en pirat-dagen",
+"desc": "Skepp ohoj, landkrabbor! Idag är det tillåtet att använda sitt bästa piratspråk hela dagen. Arrrr!"
+}
+],
+"color": "#fdcb6e"
+},
+"09-20": {
+"events": [
+{
+"title": "Bålets dag",
+"desc": "Vi firar de stora utomhuseldarna som lyser upp i septembermörkret."
+},
+{
+"title": "Barnskötarens dag",
+"desc": "En hyllning till alla som ger våra minsta en trygg och lärorik start i livet."
+}
+],
+"color": "#ff7675"
+},
+"09-21": {
+"events": [
+{
+"title": "Internationella fredsdagen",
+"desc": "En dag för vapenvila och icke-våld över hela världen. Tänk fred!"
+},
+{
+"title": "Internationella Alzheimerdagen",
+"desc": "Vi sprider kunskap och visar stöd för drabbade och deras anhöriga."
+}
+],
+"color": "#a29bfe"
+},
+"09-22": {
+"events": [
+{
+"title": "Internationella bilfria dagen",
+"desc": "Låt bilen stå och ta cykeln eller gå! Jorden och din hälsa tackar dig."
+},
+{
+"title": "Höstdagjämningen",
+"desc": "Nu är dag och natt lika långa. Välkommen till den färgsprakande hösten!"
+}
+],
+"color": "#55efc4"
+},
+"09-23": {
+"events": [
+{
+"title": "Internationella dagen för teckenspråk",
+"desc": "Vi uppmärksammar vikten av teckenspråk för att säkerställa allas rätt till delaktighet."
+}
+],
+"color": "#74b9ff"
+},
+"09-24": {
+"events": [
+{
+"title": "Skiljetecknets dag",
+"desc": "En viktig dag för alla språkpoliser! Glöm inte bort kommatecknet, det kan rädda liv!"
+}
+],
+"color": "#b2bec3"
+},
+"09-25": {
+"events": [
+{
+"title": "Lönekvittots dag",
+"desc": "Känslan av att se resultatet av sitt slit svart på vitt. Unna dig något fint idag!"
+},
+{
+"title": "Äpplets dag",
+"desc": "Svenska äpplen är de godaste! Gör en paj, musta eller ät dem precis som de är."
+}
+],
+"color": "#ff7675"
+},
+"09-26": {
+"events": [
+{
+"title": "Europeiska språkdagen",
+"desc": "Lär dig ett nytt ord på ett annat språk idag. Mångfald berikar!"
+}
+],
+"color": "#6c5ce7"
+},
+"09-27": {
+"events": [
+{
+"title": "Världsturismdagen",
+"desc": "Vi reser med ansvar och nyfikenhet. Vart drömmer du om att åka nästa gång?"
+},
+{
+"title": "Tjänstepensionens dag",
+"desc": "Kanske tråkigt nu, men fantastiskt sen! Se över din framtid idag."
+}
+],
+"color": "#fdcb6e"
+},
+"09-28": {
+"events": [
+{
+"title": "Internationella dagen för rätt till information",
+"desc": "Öppenhet är grunden för ett fritt samhälle. Vi firar rätten att få veta!"
+}
+],
+"color": "#74b9ff"
+},
+"09-29": {
+"events": [
+{
+"title": "Kaffets dag",
+"desc": "Sveriges nationaldryck? Idag tar vi en extra stor kopp av det svarta guldet."
+},
+{
+"title": "Alla hjärtans dag (Hjärtdagen)",
+"desc": "Vi fokuserar på hjärthälsa och hur vi kan leva ett långt och friskt liv."
+}
+],
+"color": "#d63031"
+},
+"09-30": {
+"events": [
+{
+"title": "Internationella översättardagen",
+"desc": "Utan översättare skulle vi inte förstå varandra. Vi hyllar brobyggarna mellan kulturer!"
+}
+],
+"color": "#a29bfe"
+}
+}

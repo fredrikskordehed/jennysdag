@@ -1,4 +1,259 @@
 {
+"01-01": {
+"events": [
+{
+"title": "Nyårsdagen",
+"desc": "Dagen för nystarter, löften och kanske en och annan huvudvärkstablett. Idag firar vi att vi har ett helt oskrivet blad framför oss!"
+},
+{
+"title": "Internationella pizzadagen",
+"desc": "Eftersom ingen orkar laga mat idag är det officiellt lagligt att beställa pizza till både lunch och middag."
+}
+],
+"color": "#74b9ff"
+},
+"01-02": {
+"events": [
+{
+"title": "Sömnens dag",
+"desc": "En dag för att återhämta sig efter ledigheten. Om någon ser trött ut idag är det bara för att de firar högtiden ordentligt!"
+}
+],
+"color": "#a29bfe"
+},
+"01-03": {
+"events": [
+{
+"title": "Världshalsduksdagen",
+"desc": "Dagen då vi hyllar det mest praktiska vinterplagget. Ju längre och färggladare, desto bättre!"
+}
+],
+"color": "#81ecec"
+},
+"01-04": {
+"events": [
+{
+"title": "Punktskriftens dag",
+"desc": "Vi uppmärksammar Louis Brailles födelsedag och vikten av tillgänglighet för alla."
+},
+{
+"title": "Hypnosens dag",
+"desc": "Titta djupt in i mina ögon... du vill bjuda hela teamet på fika... eller?"
+}
+],
+"color": "#fab1a0"
+},
+"01-05": {
+"events": [
+{
+"title": "Trettondedagsafton",
+"desc": "Sista rycket för julmyset innan vardagen drar igång på riktigt. Tänd de sista ljusen och njut!"
+}
+],
+"color": "#ffeaa7"
+},
+"01-06": {
+"events": [
+{
+"title": "Trettondedag jul",
+"desc": "En röd dag i kalendern vilket betyder extra tid för återhämtning eller en långpromenad i kylan."
+}
+],
+"color": "#ff7675"
+},
+"01-07": {
+"events": [
+{
+"title": "Temadagens dag",
+"desc": "Ja, det finns faktiskt en temadag för temadagar! Meta-firande på hög nivå."
+}
+],
+"color": "#55efc4"
+},
+"01-08": {
+"events": [
+{
+"title": "Elvis-dagen",
+"desc": "The King skulle ha fyllt år idag. Vi firar med lite rock'n'roll i högtalarna!"
+}
+],
+"color": "#fdcb6e"
+},
+"01-09": {
+"events": [
+{
+"title": "Städut-julen-dagen",
+"desc": "Dags att dammsuga upp de sista barren och packa ner tomtarna. Nu siktar vi mot våren!"
+}
+],
+"color": "#b2bec3"
+},
+"01-10": {
+"events": [
+{
+"title": "Fika-på-jobbet-dagen",
+"desc": "Som om vi behövde en anledning? Men idag är det faktiskt extra viktigt att prioritera den sociala pausen."
+}
+],
+"color": "#e17055"
+},
+"01-11": {
+"events": [
+{
+"title": "Internationella 'Tack'-dagen",
+"desc": "Glöm inte att säga tack till en kollega idag. Ett litet ord som gör stor skillnad!"
+}
+],
+"color": "#fd79a8"
+},
+"01-12": {
+"events": [
+{
+"title": "Marsipanens dag",
+"desc": "För alla som inte fick nog av julgodiset. Marsipangrisar är välkomna även i januari!"
+}
+],
+"color": "#55efc4"
+},
+"01-13": {
+"events": [
+{
+"title": "Tjugondag Knut",
+"desc": "Då dansas julen ut på riktigt. Fram med sopkvasten och ut med granen!"
+}
+],
+"color": "#74b9ff"
+},
+"01-14": {
+"events": [
+{
+"title": "Logikens dag",
+"desc": "En dag för att hylla kritiskt tänkande och smarta lösningar. Perfekt för oss på jobbet!"
+}
+],
+"color": "#a29bfe"
+},
+"01-15": {
+"events": [
+{
+"title": "Tulpanens dag",
+"desc": "Nu tjuvstartar vi våren! Köp hem en krispig bukett och låt färgerna liva upp januarimörkret."
+}
+],
+"color": "#ff7675"
+},
+"01-16": {
+"events": [
+{
+"title": "Drakens dag",
+"desc": "Inte den sorten som flyger i snöre, utan de eldandande legendariska varelserna. Släpp loss din inre drake!"
+}
+],
+"color": "#6c5ce7"
+},
+"01-17": {
+"events": [
+{
+"title": "Världssnödagen",
+"desc": "Vi hoppas på pudersnö och perfekta förhållanden för pulkaåkning!"
+}
+],
+"color": "#81ecec"
+},
+"01-18": {
+"events": [
+{
+"title": "Nalle Puh-dagen",
+"desc": "A.A. Milnes födelsedag. Som Puh säger: 'Man kan inte sitta i sitt eget hörn och vänta på att andra ska komma till en. Man måste gå till dem ibland.'"
+}
+],
+"color": "#fdcb6e"
+},
+"01-19": {
+"events": [
+{
+"title": "Stenåldersdagen",
+"desc": "Vi kopplar bort tekniken för en sekund och uppskattar hur långt vi faktiskt har kommit sedan grottstadiet."
+}
+],
+"color": "#636e72"
+},
+"01-20": {
+"events": [
+{
+"title": "Lösenordsdagen",
+"desc": "Dags att uppdatera 'Lösenord123' till något säkrare. En trygg dag är en bra dag!"
+}
+],
+"color": "#74b9ff"
+},
+"01-21": {
+"events": [
+{
+"title": "Kramens dag",
+"desc": "En varm kram (eller en digital high-five) minskar stress och ökar glädjen. Sprid värme!"
+}
+],
+"color": "#ff7675"
+},
+"01-22": {
+"events": [
+{
+"title": "Vinets dag",
+"desc": "Kanske inget för morgonmötet, men något att se fram emot till helgens middag?"
+}
+],
+"color": "#d63031"
+},
+"01-23": {
+"events": [
+{
+"title": "Elens dag",
+"desc": "Vi hyllar uppfinningen som gör att vi kan ladda våra datorer och faktiskt se vad vi gör här på kontoret!"
+}
+],
+"color": "#ffeaa7"
+},
+"01-24": {
+"events": [
+{
+"title": "Frufridagen",
+"desc": "En gammal svensk tradition som idag handlar om att ge sin partner lite extra uppskattning och egentid."
+},
+{
+"title": "Eskilstuna-dagen",
+"desc": "Vi skänker en extra tanke till den stolta staden Eskilstuna!"
+}
+],
+"color": "#fab1a0"
+},
+"01-25": {
+"events": [
+{
+"title": "Halvsnödagen",
+"desc": "Nu är halva vintern officiellt över! Vi börjar räkna ner dagarna till tussilagon dyker upp."
+}
+],
+"color": "#81ecec"
+},
+"01-26": {
+"events": [
+{
+"title": "Australiens nationaldag",
+"desc": "G'day mate! Vi firar med en låtsas-BBQ och tänker på kängurur."
+}
+],
+"color": "#0984e3"
+},
+"01-27": {
+"events": [
+{
+"title": "Förintelsens minnesdag",
+"desc": "En viktig dag för eftertanke och för att aldrig glömma historien."
+}
+],
+"color": "#2d3436"
+},
 "01-28": {
 "events": [
 {
@@ -7,7 +262,7 @@
 },
 {
 "title": "Lego-dagen",
-"desc": "Då det är fullt lagligt att bygga rymdskepp under lunchrasten."
+"desc": "Då det är fullt lagligt att bygga rymdskepp under lunchrasten. Fram med klossarna!"
 }
 ],
 "color": "#74b9ff"
@@ -16,9 +271,31 @@
 "events": [
 {
 "title": "Veganpizza-dagen",
-"desc": "En dag för att testa nya spännande toppings!"
+"desc": "En dag för att testa nya spännande toppings! Vem visste att banan på pizza var så kontroversiellt?"
 }
 ],
 "color": "#55efc4"
+},
+"01-30": {
+"events": [
+{
+"title": "Snygg-på-jobbet-dagen",
+"desc": "Idag struntar vi i mjukisbyxorna och kör på den där outfiten som får oss att känna oss som superhjältar!"
+}
+],
+"color": "#fd79a8"
+},
+"01-31": {
+"events": [
+{
+"title": "Innebandyns dag",
+"desc": "Vi firar sporten som får oss att springa som galningar efter en plastboll med hål i!"
+},
+{
+"title": "Zebra-dagen",
+"desc": "Allt är inte svart eller vitt, utom zebrorna förstås. Vi firar naturens häftigaste mönster!"
+}
+],
+"color": "#636e72"
 }
 }

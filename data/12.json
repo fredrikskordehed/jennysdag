@@ -1,0 +1,317 @@
+{
+"12-01": {
+"events": [
+{
+"title": "Första advent (rörlig) / Glöggens dag",
+"desc": "Vi tänder det första ljuset och värmer oss med en kopp kryddig glögg och pepparkakor."
+},
+{
+"title": "Världsaidsdagen",
+"desc": "Vi bär den röda loopen för att visa solidaritet med de drabbade och sprida kunskap."
+}
+],
+"color": "#d63031"
+},
+"12-02": {
+"events": [
+{
+"title": "Internationella dagen för avskaffande av slaveri",
+"desc": "En dag för att uppmärksamma moderna former av slaveri och kampen för frihet."
+}
+],
+"color": "#b2bec3"
+},
+"12-03": {
+"events": [
+{
+"title": "Internationella funktionshindersdagen",
+"desc": "Vi arbetar för ett inkluderande samhälle där alla har samma möjligheter och rättigheter."
+},
+{
+"title": "Drick en öl-dagen",
+"desc": "Kanske en mörk julöl? Vi provar säsongens nyheter med ansvar."
+}
+],
+"color": "#74b9ff"
+},
+"12-04": {
+"events": [
+{
+"title": "Armbandsklockans dag",
+"desc": "Tiden går, men stilen består! Idag hyllar vi det klassiska hantverket på handleden."
+}
+],
+"color": "#2d3436"
+},
+"12-05": {
+"events": [
+{
+"title": "Internationella volontärdagen",
+"desc": "Tack till alla som ger av sin tid för att hjälpa andra. Ni gör världen bättre!"
+},
+{
+"title": "Världsjorddagen",
+"desc": "Utan frisk jord, ingen mat. Vi påminner oss om vikten av att vårda vår mark."
+}
+],
+"color": "#00b894"
+},
+"12-06": {
+"events": [
+{
+"title": "Finlands självständighetsdag",
+"desc": "Hyvää itsenäisyyspäivää! Vi gratulerar våra grannar i öst på deras stora dag."
+}
+],
+"color": "#0984e3"
+},
+"12-07": {
+"events": [
+{
+"title": "Internationella dagen för civil luftfart",
+"desc": "Vi firar flyget som knyter samman världen och möjliggör möten över gränserna."
+}
+],
+"color": "#74b9ff"
+},
+"12-08": {
+"events": [
+{
+"title": "Nobelpriset i litteratur (ofta kring detta datum)",
+"desc": "Vi firar ordets makt och hyllar årets pristagare i den fina litteraturens tecken."
+}
+],
+"color": "#6c5ce7"
+},
+"12-09": {
+"events": [
+{
+"title": "Pepparkakans dag / Annadagen",
+"desc": "Idag ska pepparkaksdegen vara klar! Vi bakar figurer och njuter av doften i köket."
+},
+{
+"title": "Internationella dagen mot korruption",
+"desc": "Vi står upp för ärlighet och transparens i samhällets alla delar."
+}
+],
+"color": "#e17055"
+},
+"12-10": {
+"events": [
+{
+"title": "Nobeldagen",
+"desc": "Sveriges största festdag för vetenskap och kultur! Vi firar i Blå hallen och världen över."
+},
+{
+"title": "Mänskliga rättigheternas dag",
+"desc": "Alla är födda fria och lika i värde. Idag hyllar vi FN:s deklaration."
+}
+],
+"color": "#fdcb6e"
+},
+"12-11": {
+"events": [
+{
+"title": "Internationella bergsdagen",
+"desc": "Vi blickar mot topparna och påminner oss om bergens betydelse för natur och klimat."
+},
+{
+"title": "Tangons dag",
+"desc": "Dags att damma av dansskorna! Vi firar den passionerade dansen från Argentina."
+}
+],
+"color": "#ff7675"
+},
+"12-12": {
+"events": [
+{
+"title": "Julstjärnans dag",
+"desc": "Den klassiska julblomman står i centrum. Röd, vit eller rosa – den lyser upp i fönstret."
+}
+],
+"color": "#d63031"
+},
+"12-13": {
+"events": [
+{
+"title": "Luciadagen",
+"desc": "Natten går tunga fjät... Vi njuter av ljus, sång och nybakade lussebullar med saffran."
+}
+],
+"color": "#ffeaa7"
+},
+"12-14": {
+"events": [
+{
+"title": "Internationella apdagen",
+"desc": "Vi lär oss mer om våra närmaste släktingar i djurriket och behovet av att skydda dem."
+}
+],
+"color": "#fdcb6e"
+},
+"12-15": {
+"events": [
+{
+"title": "Internationella te-dagen",
+"desc": "Kura ihop dig med en varm kopp te. Vi firar drycken som värmt mänskligheten i årtusenden."
+}
+],
+"color": "#55efc4"
+},
+"12-16": {
+"events": [
+{
+"title": "Ludwig van Beethovens födelsedag",
+"desc": "Vi lyssnar på de odödliga tonerna från en av musikhistoriens största genier."
+}
+],
+"color": "#a29bfe"
+},
+"12-17": {
+"events": [
+{
+"title": "Internationella dagen för att stoppa våld mot sexarbetare",
+"desc": "En dag för mänskliga rättigheter och skydd för en utsatt grupp."
+}
+],
+"color": "#ff7675"
+},
+"12-18": {
+"events": [
+{
+"title": "Internationella migrationsdagen",
+"desc": "Vi uppmärksammar alla som söker ett nytt liv i ett annat land och deras bidrag till samhället."
+},
+{
+"title": "Kakaans dag",
+"desc": "Ännu en dag för sötsaker! Småkakor, mjuka kakor – idag är det fritt fram att fika."
+}
+],
+"color": "#74b9ff"
+},
+"12-19": {
+"events": [
+{
+"title": "Isac Newtons födelsedag (enligt gamla kalendern)",
+"desc": "Vi firar vetenskapen och tyngdlagen. Vad vore vi utan fysikens lagar?"
+}
+],
+"color": "#2d3436"
+},
+"12-20": {
+"events": [
+{
+"title": "Internationella dagen för mänsklig solidaritet",
+"desc": "Tillsammans är vi starka. Vi fokuserar på enighet i mångfald för en bättre framtid."
+}
+],
+"color": "#55efc4"
+},
+"12-21": {
+"events": [
+{
+"title": "Vintersolståndet",
+"desc": "Årets kortaste dag. Nu vänder det äntligen mot ljusare tider igen!"
+},
+{
+"title": "Skumtomtens dag",
+"desc": "En riktig favorit i julgodisskålen. Mjuk, seg och oemotståndlig."
+}
+],
+"color": "#fab1a0"
+},
+"12-22": {
+"events": [
+{
+"title": "Julkaramellens dag",
+"desc": "Vi knyter smörpapper kring kolor och gör fint till julbordets gottehörna."
+}
+],
+"color": "#ff7675"
+},
+"12-23": {
+"events": [
+{
+"title": "Drottning Silvias födelsedag",
+"desc": "Vi hissar flaggan och gratulerar vår drottning på hennes födelsedag."
+},
+{
+"title": "Dan före dopparedan",
+"desc": "Sista julstöket! Vi griljerar skinkan, klär granen och rimmar på paketen."
+}
+],
+"color": "#0984e3"
+},
+"12-24": {
+"events": [
+{
+"title": "Julafton",
+"desc": "God jul! Vi samlas med nära och kära för mat, klappar och Kalle Anka."
+}
+],
+"color": "#d63031"
+},
+"12-25": {
+"events": [
+{
+"title": "Juldagen",
+"desc": "En dag för lugn och ro (eller lek med nya julklappar). Vi njuter av julfriden."
+}
+],
+"color": "#d63031"
+},
+"12-26": {
+"events": [
+{
+"title": "Annandag jul",
+"desc": "Dags för långpromenad eller kanske ett besök på mellandagsrean för de pigga."
+}
+],
+"color": "#d63031"
+},
+"12-27": {
+"events": [
+{
+"title": "Nationella tacksägelsedagen (efter jul)",
+"desc": "Vi skriver tackkort och reflekterar över julens fina stunder."
+}
+],
+"color": "#ffeaa7"
+},
+"12-28": {
+"events": [
+{
+"title": "Värnlösa barns dag",
+"desc": "Vi tänker på alla utsatta barn i världen och deras rätt till trygghet."
+}
+],
+"color": "#b2bec3"
+},
+"12-29": {
+"events": [
+{
+"title": "Stilla dagen",
+"desc": "Mellanlandning mellan jul och nyår. En perfekt dag för läsning och vila."
+}
+],
+"color": "#81ecec"
+},
+"12-30": {
+"events": [
+{
+"title": "Bacons dag",
+"desc": "Kanske dags för en rejäl frukost efter alla julbord? Vi hyllar det rökta sidfläsket."
+}
+],
+"color": "#e17055"
+},
+"12-31": {
+"events": [
+{
+"title": "Nyårsafton",
+"desc": "Gott nytt år! Vi skålar in det nya året med bubbel, löften och hopp om framtiden."
+}
+],
+"color": "#2d3436"
+}
+}
