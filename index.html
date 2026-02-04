@@ -166,7 +166,7 @@
             "Glöm inte att fira ordentligt!"
         </div>
 
-        <footer>AI-Jenny ersätter inte den riktiga Jenny, men gör sitt bästa.</footer>
+        <footer>"Jennyrativ AI" ersätter inte den riktiga Jenny, men gör sitt bästa.</footer>
     </div>
 
     <script>
@@ -221,7 +221,7 @@
             if (events.length === 1) {
                 return `Jo, idag är det nämligen ${events[0].title}! \n\n${events[0].desc}`;
             }
-            let text = `Jo, lyssna nu! Idag är det först och främst ${events[0].title}. ${events[0].desc}\n\n`;
+            let text = `Jo, lyssna nu! Idag är det först och främst ${events[0].title}. \n\n${events[0].desc}\n\n`;
             for (let i = 1; i < events.length; i++) {
                 const prefix = i === events.length - 1 ? "Men OCKSÅ! " : "Och som om det inte vore nog: ";
                 text += `${prefix}Det är även ${events[i].title}! ${events[i].desc}\n\n`;
