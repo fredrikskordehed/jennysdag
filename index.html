@@ -3,171 +3,164 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI-Jennys - Vad är det för dag idag?</title>
-    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Indie+Flower&display=swap" rel="stylesheet">
+    <title>Jennysdag.se - Vad är det för dag idag?</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,600;0,800;1,800&family=Inter:wght@300;400;600&family=Caveat:wght@600&display=swap" rel="stylesheet">
     <style>
         :root {
-            --season-color: #ff7675; 
-            --bg-color: #1a1a2e;
-            --card-bg: #252545;
-            --text-main: #e0e0e0;
-            --text-muted: #b2bec3;
+            --bg: #000000;
+            --accent: #6366f1;
         }
 
         body {
-            font-family: 'Montserrat', sans-serif;
-            background-color: var(--bg-color);
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg);
+            color: #ffffff;
             margin: 0;
-            display: flex;
-            flex-direction: column; 
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            color: var(--text-main);
-            padding: 20px;
+            /* overflow: hidden; */ /* Ger en app-liknande känsla */
         }
 
-        .main-title {
-            font-size: 2.8rem;
-            font-weight: 700;
-            margin-bottom: 30px;
-            text-align: center;
-            color: #ffffff;
-            text-shadow: 0 4px 10px rgba(0,0,0,0.3);
-            max-width: 600px;
-            line-height: 1.1;
+        /* Fullscreen Spotlight */
+        .immersive-bg {
+            position: fixed;
+            inset: 0;
+            background: 
+                radial-gradient(circle at 50% 50%, #1e1b4b 0%, #000000 100%);
+            z-index: -1;
         }
 
-        .card {
-            background: var(--card-bg);
-            padding: 40px;
-            border-radius: 30px;
-            box-shadow: 0 20px 50px rgba(0,0,0,0.4);
-            width: 100%;
-            max-width: 500px;
-            text-align: center;
-            position: relative;
-            border-bottom: 8px solid var(--season-color);
-            transition: all 0.5s ease;
-        }
-
-        .date-badge {
-            display: inline-block;
-            border: 1.5px solid var(--season-color);
-            color: var(--season-color);
-            padding: 8px 20px;
-            border-radius: 20px;
-            font-weight: 600;
-            margin-bottom: 25px;
-            font-size: 0.9rem;
-            text-transform: capitalize;
-            letter-spacing: 0.5px;
-        }
-
-        h2 {
-            font-family: 'Montserrat', sans-serif;
-            font-weight: 700;
-            font-size: 1.8rem;
-            margin: 0 0 25px 0;
-            color: #ffffff;
-            line-height: 1.4;
-        }
-
-        .story-container {
-            min-height: 100px;
-            margin-bottom: 20px;
-        }
-
-        .description {
-            font-size: 1.15rem;
-            line-height: 1.7;
-            color: var(--text-main);
+        /* Nike Hero Typography */
+        .jenny-hero {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-weight: 500;
             font-style: italic;
-            opacity: 0.9;
-            text-align: left;
-            white-space: pre-wrap;
+            text-transform: uppercase;
+            letter-spacing: -0.06em;
+            line-height: 0.85;
         }
 
-        .reveal-btn {
-            background: var(--season-color);
-            color: #1a1a2e;
-            border: none;
-            padding: 15px 30px;
-            border-radius: 50px;
-            font-family: 'Montserrat', sans-serif;
-            font-weight: 700;
-            font-size: 1rem;
-            cursor: pointer;
-            box-shadow: 0 4px 15px rgba(255, 118, 117, 0.3);
-            transition: transform 0.2s, box-shadow 0.2s;
-            margin-top: 10px;
+        .jenny-subhero {
+            font-family: 'Plus Jakarta Sans', sans-serif;
+            font-weight: 800;
+            /* font-style: italic; */
+            /* text-transform: uppercase; */
+            /* letter-spacing: -0.06em; */
+            /* line-height: 0.85; */
         }
 
-        .reveal-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 20px rgba(255, 118, 117, 0.4);
+        .handwritten {
+            font-family: 'Caveat', cursive;
         }
 
-        .reveal-btn.hidden { display: none; }
-
-        .jenny-note {
-            margin-top: 30px;
-            padding-top: 20px;
-            border-top: 1px dashed rgba(255, 255, 255, 0.1);
-            font-family: 'Indie Flower', cursive;
-            font-size: 1.5rem;
-            color: #fab1a0;
+        /* Action Button - High Contrast */
+        .btn-hero {
+            background: #ffffff;
+            color: #000000;
+            transition: all 0.5s cubic-bezier(0.16, 1, 0.3, 1);
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.1em;
         }
 
-        footer {
-            margin-top: 25px;
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            opacity: 0.5;
+        .btn-hero:hover {
+            transform: scale(1.1);
+            letter-spacing: 0.2em;
+            box-shadow: 0 0 50px rgba(255, 255, 255, 0.15);
         }
 
-        .cursor {
-            display: inline-block;
-            width: 3px;
-            background-color: var(--season-color);
-            margin-left: 2px;
-            animation: blink 0.7s infinite;
+        /* Layout Elements */
+        .corner-element {
+            position: fixed;
+            padding: 40px;
+            z-index: 20;
+            pointer-events: none;
         }
 
-        @keyframes blink {
-            0%, 100% { opacity: 1; }
-            50% { opacity: 0; }
+        .glass-nav {
+            backdrop-filter: blur(10px);
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.05);
         }
 
-        @media (max-width: 480px) {
-            .main-title { font-size: 2rem; }
-            h2 { font-size: 1.5rem; }
+        @keyframes revealUp {
+            from { opacity: 0; transform: translateY(40px) scale(0.95); }
+            to { opacity: 1; transform: translateY(0) scale(1); }
+        }
+
+        .reveal {
+            animation: revealUp 1.2s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+        }
+
+        /* Shimmer text effect */
+        .shimmer {
+            background: linear-gradient(90deg, #fff 0%, #444 50%, #fff 100%);
+            background-size: 200% auto;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            animation: shine 5s linear infinite;
+        }
+
+        @keyframes shine {
+            to { background-position: 200% center; }
         }
     </style>
 </head>
 <body>
 
-    <h1 class="main-title"><span style="color: #585893">AI-</span>Jennys - Vad är det för dag idag?</h1>
+    <div class="immersive-bg"></div>
 
-    <div class="card">
-        <div class="date-badge" id="full-date">Laddar...</div>
-        
-        <div id="interactive-area">
-            <h2 id="question-text">Hämtar dagens firande...</h2>
-            
-            <button id="reveal-btn" class="reveal-btn hidden" onclick="startStorytelling()">Nej, berätta!</button>
-            
-            <div class="story-container">
-                <p class="description" id="story-text"></p><span id="cursor" class="cursor hidden"></span>
-            </div>
-        </div>
-
-        <div class="jenny-note">
-            "Glöm inte att fira ordentligt!"
-        </div>
-
-        <footer>"Jennyrativ AI" ersätter inte den riktiga Jenny, men gör sitt bästa.</footer>
+    <!-- UI Overlays (Corners) -->
+    <div class="corner-element top-0 left-0">
+        <div class="jenny-hero text-2xl tracking-tighter shimmer">JENNYSDAG.SE</div>
     </div>
+
+    <div class="corner-element top-0 right-0 hidden md:block">
+        <div class="glass-nav px-6 py-2 rounded-full text-[10px] font-bold tracking-[0.4em] text-slate-400 uppercase">
+            Powered by Jennyrativ AI
+        </div>
+    </div>
+
+
+
+    <!-- Main Content Stage -->
+    <main class="min-h-screen w-screen flex flex-col items-center justify-center relative px-6 text-center py-20">
+        
+        <div class="space-y-12 max-w-7xl w-full reveal">
+            
+            <!-- Context Badge -->
+            <div class="flex justify-center mb-8">
+                <span id="full-date" class="text-indigo-400 text-xs font-bold tracking-[0.3em] uppercase">Laddar...</span>
+            </div>
+
+            <!-- Big Bold Question -->
+            <div class="space-y-4">
+                <h1 class="jenny-hero text-5xl md:text-7xl text-white mb-8">Vad är det för dag idag?</h1>
+                <h2 id="question-text" class="jenny-subhero text-2xl md:text-4xl text-white mb-8">Hämtar dagens firande...</h2>
+                <div class="story-container text-slate-400 text-xl md:text-2xl font-light  max-w-2xl mx-auto mt-12">
+                    <p class="description" id="story-text" style="text-align: left; white-space: pre-wrap;"></p><span id="cursor" class="cursor hidden" style="background-color: var(--accent);"></span>
+                </div>
+            </div>
+
+            <!-- Call to Action -->
+            <div class="pt-10">
+                <button id="reveal-btn" class="btn-hero px-16 py-6 rounded-full text-sm md:text-base hidden">
+                    Berätta!
+                </button>
+            </div>
+
+        </div>
+
+        <!-- Quotes and Footer -->
+        <div class="w-full flex flex-col items-center justify-center mt-12 reveal" style="animation-delay: 0.4s;">
+            <p class="jenny-note handwritten text-3xl md:text-4xl text-indigo-300 opacity-60 hover:opacity-100 transition-opacity cursor-default">
+                "Glöm inte att fira ordentligt!"
+            </p>
+            <p class="text-[9px] font-bold tracking-[0.5em] text-slate-500 uppercase mt-4">
+                Jennyrativ AI ersätter inte den riktiga Jenny. Men gör sitt bästa.
+            </p>
+        </div>
+
+    </main>
 
     <script>
         let currentStory = "";
@@ -197,9 +190,9 @@
                     const count = todayData.events.length;
                     document.getElementById('question-text').innerText = count === 1 
                         ? `Idag har vi en speciell sak på gång. Någon som vet vad?`
-                        : `Idag har vi faktiskt ${count} spännande saker att fira! Någon som vet vilka?`;
+                        : `Idag har vi faktiskt ${count} spännande saker att fira!\nNågon som vet vilka?`;
                     
-                    if (todayData.color) document.documentElement.style.setProperty('--season-color', todayData.color);
+                    // Removed: if (todayData.color) document.documentElement.style.setProperty('--season-color', todayData.color);
                     currentStory = formatStory(todayData.events);
                     document.getElementById('reveal-btn').classList.remove('hidden');
                 } else {
@@ -221,7 +214,7 @@
             if (events.length === 1) {
                 return `Jo, idag är det nämligen ${events[0].title}! \n\n${events[0].desc}`;
             }
-            let text = `Jo, lyssna nu! Idag är det först och främst ${events[0].title}. \n\n${events[0].desc}\n\n`;
+            let text = `Jo, lyssna nu! Idag är det först och främst ${events[0].title}! \n\n${events[0].desc}\n\n`;
             for (let i = 1; i < events.length; i++) {
                 const prefix = i === events.length - 1 ? "Men OCKSÅ! " : "Och som om det inte vore nog: ";
                 text += `${prefix}Det är även ${events[i].title}! ${events[i].desc}\n\n`;
@@ -254,6 +247,7 @@
         }
 
         window.onload = init;
+        document.getElementById('reveal-btn').addEventListener('click', startStorytelling);
     </script>
 </body>
 </html>
