@@ -103,6 +103,25 @@
         @keyframes shine {
             to { background-position: 200% center; }
         }
+
+        .btn-speak {
+            background: transparent;
+            color: rgba(255,255,255,0.5);
+            border: 1px solid rgba(255,255,255,0.15);
+            font-weight: 600;
+            letter-spacing: 0.05em;
+            transition: all 0.3s ease;
+        }
+
+        .btn-speak:hover {
+            color: #fff;
+            border-color: rgba(255,255,255,0.4);
+        }
+
+        .btn-speak.speaking {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
     </style>
 </head>
 <body>
@@ -142,9 +161,13 @@
             </div>
 
             <!-- Call to Action -->
-            <div class="pt-10">
+            <div class="pt-10 flex flex-col items-center gap-4">
                 <button id="reveal-btn" class="btn-hero px-16 py-6 rounded-full text-sm md:text-base hidden">
                     Berätta!
+                </button>
+                <button id="speak-btn" class="btn-speak px-10 py-4 rounded-full text-sm hidden inline-flex items-center gap-2" onclick="speakStory()">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+                    Läs upp
                 </button>
             </div>
 
@@ -195,6 +218,7 @@
                     // Removed: if (todayData.color) document.documentElement.style.setProperty('--season-color', todayData.color);
                     currentStory = formatStory(todayData.events);
                     document.getElementById('reveal-btn').classList.remove('hidden');
+                    document.getElementById('speak-btn').classList.remove('hidden');
                 } else {
                     handleEmptyDay();
                 }
@@ -208,6 +232,7 @@
             document.getElementById('question-text').innerText = "Idag verkar vara en helt vanlig (men magisk) vardag!";
             currentStory = "Idag finns ingen officiell temadag i min lista, vilket betyder att vi får uppfinna en själva. 'Ta-en-extra-kaka-dagen' kanske?";
             document.getElementById('reveal-btn').classList.remove('hidden');
+            document.getElementById('speak-btn').classList.remove('hidden');
         }
 
         function formatStory(events) {
@@ -244,6 +269,21 @@
                 }
             }
             typeWriter();
+        }
+
+        function speakStory() {
+            const btn = document.getElementById('speak-btn');
+            if (speechSynthesis.speaking) {
+                speechSynthesis.cancel();
+                btn.classList.remove('speaking');
+                return;
+            }
+            const utterance = new SpeechSynthesisUtterance(currentStory);
+            utterance.lang = 'sv-SE';
+            utterance.rate = 0.95;
+            btn.classList.add('speaking');
+            utterance.onend = () => btn.classList.remove('speaking');
+            speechSynthesis.speak(utterance);
         }
 
         window.onload = init;
