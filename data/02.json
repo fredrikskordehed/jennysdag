@@ -250,6 +250,10 @@
 "02-25": {
 "events": [
 {
+"title": "Internationella kokleaimplantatsdagen",
+"desc": "Idag är det Internationella kokleaimplantatsdagen, som firas till minne av det allra första kokleaimplantatet i Frankrike 1957. Sedan dess har den här tekniken gett hörsel åt hundratusentals människor världen över. Det är ett sådant där medicinskt underverk som man lätt glömmer bort, men som faktiskt har förändrat livet för väldigt många."
+},
+{
 "title": "Grapefruktens dag",
 "desc": "Fruktimportörerna vill att vi äter grapefrukt idag. Det är bittert, men det ska visst vara en riktig vitaminchock som rensar systemet inför våren. Man vaknar i alla fall till ordentligt när man tar en tugga av en sådan där, det kan jag lova. Det är nästan som en kalldusch för smaklökarna."
 }
@@ -270,6 +274,10 @@
 {
 "title": "Internationella isbjörnsdagen",
 "desc": "Polar Bears International påminner oss om Arktis kungar idag. Vi tänker på isbjörnarna och vikten av att vara rädda om vårt klimat så att de har kvar sina isar. De ser ju fantastiskt mysiga ut på bild, men man ska nog inte försöka krama dem på riktigt, det tror jag blir en dålig affär."
+},
+{
+"title": "Världsdagen för frivilligorganisationer",
+"desc": "Det är också Världsdagen för frivilligorganisationer idag, en dag som faktiskt erkändes av tolv länder runt Östersjön redan 2010 – bland dem Sverige. Vi hyllar alla ideella krafter som gör världen lite bättre utan att förvänta sig något tillbaka. Det är lite som de där kollegorna som alltid ser till att det finns kaffe i kannan utan att ta åt sig äran."
 }
 ],
 "color": "#81ecec"
@@ -281,8 +289,12 @@
 "desc": "Idag är det Kalevaladagen, den finska kulturens dag som firas till minne av deras nationalepos. Vi firar med sagor, myter och kanske en gnutta sisu. Lite finsk uthållighet skadar ju aldrig när man har en lång arbetsdag framför sig och regnet hänger i luften."
 },
 {
-"title": "Musarmens dag",
-"desc": "Sen är det en viktig påminnelse från ergonomerna: Musarmens dag. Släpp musen en stund, sträck på fingrarna och gör dina pausövningar. Annars blir man väl sittande där som en hösäck till slut, och det är ju ingen vacker syn för kollegorna."
+"title": "Sällsynta dagen",
+"desc": "Sen är det Sällsynta dagen, som drivs av EURORDIS och Riksförbundet Sällsynta diagnoser för att lyfta fram de runt 300 miljoner människor världen över som lever med en sällsynt diagnos. Att dagen firas just den sista dagen i februari är ingen slump – den 29:e finns ju bara vart fjärde år, och det får väl sägas vara ganska sällsynt det också."
+},
+{
+"title": "Internationella musarmsdagen",
+"desc": "Och som om det inte vore nog så är det Internationella musarmsdagen, en påminnelse från arbetsmiljöfolket om att vara snäll mot sina handleder. Släpp musen en stund, sträck på fingrarna och gör dina pausövningar. Annars blir man väl sittande där som en hösäck till slut, och det är ju ingen vacker syn för kollegorna."
 }
 ],
 "color": "#74b9ff"
